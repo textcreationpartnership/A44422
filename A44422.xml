@@ -1,0 +1,1099 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fencing-master's advice to his scholar: or, A few directions for the more regular assaulting in schools Published by way of dialogue, for the benefit of all who shall be so far advanced in the art, as to be fit for assaulting. By the author of The Scots fencing-master, and Sword-mans vade-mecum.</title>
+            <author>Hope, William, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 134 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44422</idno>
+            <idno type="STC">Wing H2713</idno>
+            <idno type="STC">ESTC R218920</idno>
+            <idno type="EEBO-CITATION">99830471</idno>
+            <idno type="PROQUEST">99830471</idno>
+            <idno type="VID">34923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2091:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fencing-master's advice to his scholar: or, A few directions for the more regular assaulting in schools Published by way of dialogue, for the benefit of all who shall be so far advanced in the art, as to be fit for assaulting. By the author of The Scots fencing-master, and Sword-mans vade-mecum.</title>
+                  <author>Hope, William, Sir.</author>
+               </titleStmt>
+               <extent>96 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Reid, at his printing-house in Bells-wynd,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Domini, 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author of The Scots fencing-master, and Sword-mans vade-mecum = Sir William Hope.</note>
+                  <note>Caption titles on p. 11: "The fencing master's advice to his scholar, by way of dialogue"; and on p. 87: "The original contract of the Society of Sword Men in Scotland.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Sword Men in Scotland --  Early works to 1800.</term>
+               <term>Fencing --  Training --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34923:1"/>
+            <p>THE FENCING-MASTER's ADVICE TO HIS SCHOLAR: OR, A FEW DIRECTIONS For the more Regular ASSAULTING in SCHOOLS.</p>
+            <p>Publiſhed by way of Dialogue, for the Benefit of all who ſhall be ſo far ad<g ref="char:EOLhyphen"/>vanced in the ART, as to be fit for Aſſaulting.</p>
+            <p>By the Author of <hi>The Scots Fencing-Ma<g ref="char:EOLhyphen"/>ſter,</hi> and <hi>Sword-Mans Vade-mecum.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>John Reid,</hi> at his Print<g ref="char:EOLhyphen"/>ing-houſe in <hi>Bells</hi>-wynd. <hi>Anno Domini,</hi> 1692.</p>
+            <pb facs="tcp:34923:2"/>
+            <pb facs="tcp:34923:2"/>
+            <pb facs="tcp:34923:3"/>
+            <pb facs="tcp:34923:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:34923:4" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb n="3" facs="tcp:34923:4"/>
+            <head>To the Honourable SOCIETY OF SWORD-MEN IN SCOTLAND.</head>
+            <opener>
+               <dateline>Erected at <hi>Edinburgh</hi> 
+                  <date>the 26<hi rend="sup">th</hi>. of <hi>February,</hi> 1692.</date>
+               </dateline>
+               <salute>Gentlemen and Fellow-Sword-Men,</salute>
+            </opener>
+            <p>HAving the Honour to be One of Your Society, and being ſo Fortunate as to be elected at Your firſt Meeting pre<g ref="char:EOLhyphen"/>cident for that Year, I think I cannot give a greater Teſtimony of my Gratitude for that Favour, and of the reſpect I bear to the Society, then by preſenting you with this Token, which although I muſt confeſs but a very ſmall One; yet if narrowly canvaſed, will be found to con<g ref="char:EOLhyphen"/>tain in it more of the Judgement of the Sword, than probably (conſidering its bulk) could have been expected.</p>
+            <p>It therefore begs your Protection, &amp; with all humility ſubmits to Your impartial Cenſure: For who can be fitter Judges of the Subject of
+<pb n="4" facs="tcp:34923:5"/>this Diſcourſe, than perſons who have ſo gene<g ref="char:EOLhyphen"/>rouſly engaged themſelves to Mantain, Encou<g ref="char:EOLhyphen"/>rage, and Defend the Uſefulneſs of the ART whereof it treateth.</p>
+            <p>It is true, it treateth chiefly but of the Second Branch; or Part of this Art; for I think the Art of the Small-ſword or Rapier may be very juſtly devided into three Parts, or Kinds of Practice, which are, The Practice of the Leſ<g ref="char:EOLhyphen"/>ſons upon a Maſter's Breaſt. The Practice of School-play, or of the ſame Leſſons againſt a Commerad with Blunts. And the Practice of the Abſtract or moſt ſecure part of the very ſame Leſſons at Sharps, for a Man's Honour, or Life. Now of the Firſt &amp; Laſt of theſe I have writ al<g ref="char:EOLhyphen"/>ready; of the firſt in my <hi>Scots Fencing-Maſter,</hi> &amp; of the Laſt in the <hi>Sword-Mans Vade-mecum:</hi> So that to perfite all I can ſay upon this Art, there only remains that I diſcourſe upon this Second Branch, which is of ſo much the more uſe, as it is the only means to make a Man perfect in the Third: For a Scholar may play his Leſ<g ref="char:EOLhyphen"/>ſons very exactly upon a Maſter, who can nei<g ref="char:EOLhyphen"/>their perform them in Aſſault nor at Sharps, but it is ſomewhat rare to find a perſon dexte<g ref="char:EOLhyphen"/>rous and exact in School play, who cannot per<g ref="char:EOLhyphen"/>form ſomething at Sharps, I do not mean by his natural Courage and Forewardneſs, but by an artificial Conduct and Practice of his Leſ<g ref="char:EOLhyphen"/>ſons.</p>
+            <pb n="5" facs="tcp:34923:5"/>
+            <p>And altho there may in Our Honourable Society be ſome, who know as much, nay, per<g ref="char:EOLhyphen"/>haps more of what belongeth to this, than I can diſcover to them, and alſo that it cannot be ſup<g ref="char:EOLhyphen"/>poſed that any will be admitted into it, who do not in ſome meaſure underſtand how School Play ſhould be performed; yet I may ſafely ſay, we are not all of the ſame Strength and A<g ref="char:EOLhyphen"/>droitneſs; and however uſeleſs this Peice may prove to ſome, yet there are others who ſtand mightily in need of it, as well in Our Society, as in other Schools throw the Kingdom: And this in my Opinion can be no more a Reflecti<g ref="char:EOLhyphen"/>on upon us, than it is upon any other Corpo<g ref="char:EOLhyphen"/>ration, that all belonging to it are not alike dexterous and expert in the Trade they profeſs.</p>
+            <p>I expect therefore Gentlemen, that You wo'nt be diſſatisfied at my recommending this Diſcourſe to Your peruſal, ſeing it was meer<g ref="char:EOLhyphen"/>ly for the Encouragement of the Art, and Im<g ref="char:EOLhyphen"/>provement of the Youth of this Kingdom, whereof You are a part, that I was at firſt indu<g ref="char:EOLhyphen"/>ced to enter upon this Subject: And ſeing I may without Vanity ſay, I have been none of the meaneſt Inſtruments in perſwading many Gen<g ref="char:EOLhyphen"/>tlemen to apply themſelves to it, the good ef<g ref="char:EOLhyphen"/>fects of which I ſee in the Erection of this Our Society; I reſt ſatisfied as having fully accom<g ref="char:EOLhyphen"/>pliſhed my Deſign, and contemning the Cen<g ref="char:EOLhyphen"/>ſures
+<pb n="6" facs="tcp:34923:6"/>of Any, who may Reflect upon me as medling too much with what they judge does ſo little lye in my way: I think my ſelf aboun<g ref="char:EOLhyphen"/>dantly recompenced (by the Encouragement I ſee You give the Art) for any ſmall Trouble or Expences I have been at for the benefit of my Countrey-men upon this Subject, of which, if I be not miſtaken, I have ſaid all that is neceſ<g ref="char:EOLhyphen"/>ſar, either for the Divertiſement, or Defence of a Mans Perſon.</p>
+            <p>Continue then, Worthy Gentlemen, Your Noble Deſign, of Encouraging by this Your Society the Art of the Sword; and as You have caſt a generous Coppy to the reſt of <hi>Brittain,</hi> whereby they may know what Method to take for the Improvement of their Youth in ſo uſe<g ref="char:EOLhyphen"/>ful an Art; ſo let Your Practice diſcover and demonſtrate to the World, <hi>That as</hi> Scotland <hi>cometh ſhort of few Kingdoms for producing of Spirits capable of any Art or Science, ſo ſhe will be behind none in advancing the Noble Art of Defence, and training up of Swordmen both to defend It and their Countrey, when a fit occaſion ſhall offer.</hi> In doing which You will not only reap the Advantage and Benefit Your ſelves, but alſo be an Honour to Your Nation, which that it may for ever flouriſh and be Fa<g ref="char:EOLhyphen"/>mous for Sword-men, ſhall ſtill be the deſire and hearty wiſh of,</p>
+            <closer>
+               <salute>GENTLEMEN,</salute> 
+               <signed>Your moſt ſincere Well-wiſher and humble Servant <hi>W. H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="7" facs="tcp:34923:6"/>
+            <head>To all who are fit for <hi>Aſſaulting.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> may perhaps imagine, that after having writ ſo much already upon this Subject what I am at preſent to add to it, is likly to prove either Superfluous, or at beſt but a Repetition; but I muſt tell you that ſtrictly conſidered it is neither.</p>
+            <p>For in this I am to give you a diſcription of neither Guard, Parrade, nor Leſſon; having done that ſo ex<g ref="char:EOLhyphen"/>actly in my <hi>Scots Fencing-Maſter,</hi> that were I to do it again, I could not perform it better, than by tak<g ref="char:EOLhyphen"/>ing an exact Coppy of it, it being ſo perfeitly conform to the common Method of Teaching, uſed at preſent throw the moſt part of <hi>Europe.</hi>
+            </p>
+            <p>But as all Arts are capable of Improvement; ſo in Fencing there are Circumſtances uſed now in perform<g ref="char:EOLhyphen"/>ing ſome of the Leſſons, which a few Years hence may be rectified, (and upon very juſt and ſolid grounds) to a great deal of Advantage: So that altho my Book be moſt exact now, yet it may come to differ a little in thoſe Circumſtances, which may afterwards be thought more agreeable to Reaſon, and the Natural Situation of the Body.</p>
+            <pb n="8" facs="tcp:34923:7"/>
+            <p>However I am fully perſwaded, that whatever Alterations may happen, they will contain more of Form than any eſſential Difference; So that as long as Fenc<g ref="char:EOLhyphen"/>ing it in repute, that Book will ſtill be uſeful, and therefore to thoſe who are grounding in the Art I cannot recommend a better: For it traces the Art ſo gradu<g ref="char:EOLhyphen"/>ally from the ſimpleſt to the moſt difficult Leſſon, that I may juſtly term it. The Rudiments of the Sword for Beginners, and a ſufficient Inſtructer and Reviver of the Art, to thoſe who are either advancing to, or arriv<g ref="char:EOLhyphen"/>ed at the greateſt Perfection this Art is capable of.</p>
+            <p>Nor am I to give you an Abſtract of the moſt eſsenti<g ref="char:EOLhyphen"/>al Rules in this Art, that are only to be practiced at Sharps, having alſo done that in the <hi>Sword-mans Vade-mecum,</hi> and how I have performed it there, I leave to the Deciſion of thoſe to whom I Dedicated that Peice.</p>
+            <p>I confeſs when I write that Book, I thought never to have had any more occaſion to enter upon this Sub<g ref="char:EOLhyphen"/>ject, but my oft frequenting the Fencing-Schools, eſpe<g ref="char:EOLhyphen"/>cially upon the Aſſaulting-dayes, where I obſerved a great many groſs Abſurdities committed by thoſe who did Aſſault; which I am afraid was not only ground of Deriſion to ſome, but the reaſon alſo of others altogether abſenting themſelves from the Schools; I ſay the obſerv<g ref="char:EOLhyphen"/>ing of theſe things made me diſcover, that I, and all like<g ref="char:EOLhyphen"/>wiſe who have treated of this Subject, had ommitted ſomething which might prove very beneficial for the improvement of Young, and perfiting of Old Scholars in
+<pb n="9" facs="tcp:34923:7"/>their Play with Blunts, and after having a little con<g ref="char:EOLhyphen"/>ſidered wherein this omiſſion lay, I found it to be in the not ſetting down of plain and exact Rules for Aſ<g ref="char:EOLhyphen"/>ſaulting; it is true in my <hi>Scots Fencing Maſter</hi> I hinted a little at it, and gave alſo ſome few Directions to this purpoſe, but they are not there near ſo particu<g ref="char:EOLhyphen"/>lar upon this head as I intend they ſhall be at preſent.</p>
+            <p>So for the benefit of Young Scholars, and to prevent for the future the like abuſes, I have undertaken to draw out ſuch Directions as I have by my ſmall pra<g ref="char:EOLhyphen"/>ctice found to be moſt advantagious in School-play; you are therefore only to expect here thoſe Directions, which are to be as ſo manie Guides, for your more Decent and Regular Aſſaulting, in ſetting down of which I ſhall endeavour to be as diſtinct and compendious as poſſible, ſeeing I will eaſilie be underſtood by you for whom they are deſigned, and for others (as I have ſaid elſewhere) they muſt not imagine that the reading a a ſheet or two of Print will immediatlie inſpire them with as much Art as can make them Aſſault, No, that is not to be expected.</p>
+            <p>They therefore muſt at firſt ſteer their Courſe ano<g ref="char:EOLhyphen"/>ther way, that is, make Application to ſome Judi<g ref="char:EOLhyphen"/>cious Maſter, who by his Repute may be judged ca<g ref="char:EOLhyphen"/>pable to inſtruct them, under whoſe Tutorie I ſhall leave them until he make them fit to practice the following Directions, which I ſhall then Recommend to their Peruſal, but at preſent onlie to the Practice of You who are Actuallie, or have been Scholars, and who there<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:34923:8"/>do commonlie Aſſault in the Schools upon theſe dayes, which by the appointment of the Maſters are ſet apart for that purpoſe.</p>
+            <p>Practiſe then Gentlemen, who ever you are, theſe following Directions, as exactlie as I ſhall ſet them down, plainlie and faithfullie, and then we ſhall ſee no undecent Poſtures nor Grimmaces, no Rambling; and but few Contretemps in your School play, the neatneſs and decencie of which will not onlie draw manie Peo<g ref="char:EOLhyphen"/>ple to the Schools upon the daies of publick Aſſault, to behold your play; but alſo Excite and Encourage manie to follow the Sword, which ever was, is, and ſhall be the main Deſign of anie thing I ſhall ſay upon this, ſo Noble and Gentle-manie, but (with a kind of Re<g ref="char:EOLhyphen"/>grate I ſpeak it) too much neglected Exerciſe.</p>
+            <closer>
+               <salute>ADIEU.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="11" facs="tcp:34923:8"/>
+            <head>THE <hi>Fencing Maſter's</hi> ADVICE TO HIS SCHOLAR, By way of Dialogue.</head>
+            <sp>
+               <speaker>MASTER.</speaker>
+               <p>BOY, Go ſee who Knoks.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>
+                  <hi>Sir, 'tis one of your Scholars,</hi> Mr <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>Deſire him to come forewards.</p>
+            </sp>
+            <sp>
+               <speaker>Sch.</speaker>
+               <p>
+                  <hi>Good morrow Sir, I ſee you are not very early to day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>No indeed Sir, for you know this is one of my idle days, and when a man fatigues five days in a week for the benefit of his Scho<g ref="char:EOLhyphen"/>lars, he may very well be allowed one to him<g ref="char:EOLhyphen"/>ſelf, to take a little eaſe and reſt in. But pray, what hath brought you ſo early here this mor<g ref="char:EOLhyphen"/>ning, eſpecially ſeeing it is neither a day for Receiving a Leſſon, nor Aſſaulting?</p>
+            </sp>
+            <sp>
+               <speaker>Sch.</speaker>
+               <p>
+                  <hi>Sir. It was upon that verie Account that I made choice of it, and ſeeing I have now got you alone,
+<pb n="12" facs="tcp:34923:9"/>and alſo that it is as <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſay, an idle day, ſo that we ſhall not be interrupted by your other ſcholars; I am reſolved to diſcover freelie to you my mind, that ſo you may Aſſiſt me if poſſible in an Affair, which I muſt confeſs, doth at preſent not a little perplex me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>Sir, I aſſure you I take it as a ſingular Obligation, that you uſe this freedom with me, and what ever the matter may be, I ſhall give you my beſt Advice in it: But particularly if it any way relate to the Art I profeſs, in which caſe I think my ſelf doubly concerned: Firſt as a Friend, and then as your Maſter, to have your ſcruple reſolved, and taken away.</p>
+            </sp>
+            <sp>
+               <speaker>Sch.</speaker>
+               <p>
+                  <hi>Truelie Sir, it is concerning the Art, &amp; it is this; You know it is now more than a twelve moneth that I have been your ſcholar, and I have all this time pun<g ref="char:EOLhyphen"/>ctuallie attended your ſchool, both for my inſtruction and Practice; As for the firſt, You know how I have improven in it, ſo that I think I may without vanitie ſay, there is none of your ſcholars who can play their Leſſons more exactlie, and with a better Grace upon your breaſt then I can; but as for my Practice (I know not what can be the Reaſon of it) I find it as well as that of your other Young ſcholars, ſtark nought; for when we play againſt one another we are verie oft to ſeek what to do, and if we perform any thing it is done with ſo little Art, and ſo frequentlie by way of Contre<g ref="char:EOLhyphen"/>temps or exchanged Thruſts, that I think it ſomewhat difficult to determine whether we are the better of what
+<pb n="13" facs="tcp:34923:9"/>you have taught us or not; And then if an ignorant offer to aſſault with any of us who are Young Scholars, they put us ſo to it, and do ſo much confound us with their irregular Thruſts, that they have for the moſt part the better of it; Now why ſome of your Old ſcho<g ref="char:EOLhyphen"/>lars ſhould behave themſelves ſo well againſt ſuch per<g ref="char:EOLhyphen"/>ſons and we ſo ill? But particularlie my ſelf who hath plied it ſo hard for more than theſe twelve mon<g ref="char:EOLhyphen"/>eths bypaſt, is what I deſire to be reſolved of? And alſo, if you have any Directions which may be for my further improvement and Advantage; That you would (as becometh a Faithful Maſter) communicate them to me, as to one who deſigns by all means imagi<g ref="char:EOLhyphen"/>nable to perfite himſelf in the Art whereof you make profeſſion, and for which I have ſo great an Eſteem?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>I confeſs Sir your Diſcourſe pleaſes me mightily, and it is no ſmall ſatisfaction to me to find you ſo ſenſible of your weak<g ref="char:EOLhyphen"/>neſs in this Art, and that you have alſo with ſo much clearneſs and Reaſon given me an account of what troubled you; But ſeeing it is of no greater moment, then what you have told me, I am hopeful I ſhal be able to give you full ſatisfaction, and very ſhortly have your ſcruple in this matter removed.</p>
+            </sp>
+            <sp>
+               <speaker>Sch.</speaker>
+               <p>
+                  <hi>Sir, if you can but do that, you ſhall for ever gain my kindneſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>Be pleaſed then but to ſpend this one day with me and with pen and ink mark down
+<pb n="14" facs="tcp:34923:10"/>what I ſhall dictat to you, and if I do not lay down ſuch infallible Rules for Aſſaulting, as ſhall make you (when you come to practice) acknowledge they are ſuch, then I am ſatisfied, that you not only quite my ſchool; But alſo e<g ref="char:EOLhyphen"/>ſteem me as an impoſer upon Youth, and one who conſiders more his private intereſt and Advantage, than the publick Good and im<g ref="char:EOLhyphen"/>provement of his Scholars, and I am hopeful that as yet you do not look upon me as ſuch.</p>
+            </sp>
+            <sp>
+               <speaker>Sch.</speaker>
+               <p>
+                  <hi>No indeed ſir, for if I did I would not give you this trouble, but now ſeeing the Morning is ſo far advanced let us loſs no time; and be you alſo I intreat you, as methodical and ſhort in your Inſtructions as poſſible.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>I ſhall endeavour it what I can, but for the more orderly procedure it will not be amiſs to make a little digreſſion, and ſhew what Me<g ref="char:EOLhyphen"/>thod all Maſters ſhould take for the better ac<g ref="char:EOLhyphen"/>commodating of their Scholars when they are to Aſſault.</p>
+            </sp>
+            <div type="part">
+               <head>How a FENCING-SCHOOL ſhould be Ordered, for the better accommodation of the Scholars.</head>
+               <sp>
+                  <p>
+                     <hi>FIrſt,</hi> A Fencing-School being a place, where Perſons of the beſt Quality do frequently reſort for their Exerciſe and Divertiſement: I would therefore have every Maſter to make
+<pb n="15" facs="tcp:34923:10"/>choiſe of as large, well lighted, and well aired an one as conveniently can be had, having if poſſible, a little Room entering from it, for the Scholars to ſhift themſelves in before, and after Aſſaulting, which would be much better then for them to be put to the neceſſity of ſhif<g ref="char:EOLhyphen"/>ting before the whole company: Both which Rooms ſhould be kept alwayes neat and clean, and ſufficiently furniſhed with Chairs or Forms for the Schollars, or other Perſons who come out of curioſity to ſee the Aſſaulting, to ſit u<g ref="char:EOLhyphen"/>pon, and I would have them ſo placed as no wayes to incommode the Aſſaulters; neither (unleſs the School were ſo throng that there were not ſeats enough for them) would I have any to ſtand ſave the Maſter, who is to be as Director and Judge of every thing which ſhall paſs in the School, becauſe ſuch Perſons when they ſtand, do commonly ſhift from place to place, which not only occaſions a noiſe in the School which is very undecent, but alſo inter<g ref="char:EOLhyphen"/>rupteth the Aſſaulters, and is oftimes the cauſe of making one of them receive a Thruſt, which had they not preſſed and incommoded him with their ſhifting hither and thither, he might have prevented: Now the reaſon why I would have a large and pleaſant School, is becauſe it will prove a means both to draw company thi<g ref="char:EOLhyphen"/>ther, and to cauſe the Scholars take the more
+<pb n="16" facs="tcp:34923:11"/>delight in their Practice, which none can do when they play in a dark and neſty Room.</p>
+                  <p>
+                     <hi>Secondly.</hi> All the Shoes and Flurets ſhould be hung out of the way, the neglect of which hath alſo its inconveniencies: For when they hing near to the place where the Aſſault is made; if any of the Aſſaulters (when they are cloſly purſued) do but retire ſomewhat near to the wall, immediatly there cometh down about his ears a pair or two of Flurets, which with the ſurprizing noiſe they make, do alſo ma<g ref="char:EOLhyphen"/>ny times occaſion the receiving of a Thruſt, therefore every thing which may any ways in<g ref="char:EOLhyphen"/>commode the Aſſaulters, ſhould be taken no<g ref="char:EOLhyphen"/>tice of and prevented as much as poſſible: And thus much for the School it ſelf.</p>
+                  <p>Now a Maſter having ordered his School af<g ref="char:EOLhyphen"/>ter this manner, I would have him in the next place, affix in ſome expoſed and convenient part of it (that they may be in the view of all and the better taken notice of) theſe following Laws, which indiſpenſably all perſons who fre<g ref="char:EOLhyphen"/>quent the ſchool ſhould be obliged to obſerve under the following Penalties, it being impoſ<g ref="char:EOLhyphen"/>ſible for any Maſter to have either Order or Decency in his School without them.</p>
+               </sp>
+            </div>
+            <div type="laws">
+               <pb n="17" facs="tcp:34923:11"/>
+               <head>Laws to be Obſerved In All FENCING SCHOOLS.</head>
+               <div n="1" type="law">
+                  <head>I.</head>
+                  <sp>
+                     <p>IN the <hi>Firſt Place,</hi> I would have the dayes of the week appointed for Aſſaulting, na<g ref="char:EOLhyphen"/>med, (which ſhould be at leaſt once a week, and no Teaching to be upon that day) and e<g ref="char:EOLhyphen"/>very Scholar to be advertiſed that he is to fore<g ref="char:EOLhyphen"/>fault ſo much, if without a reaſonable excuſe, he ſhall upon ſuch dayes abſent himſelf; of the relevancy of which, the Maſter is to be the on<g ref="char:EOLhyphen"/>ly Judge.</p>
+                  </sp>
+               </div>
+               <div n="2" type="law">
+                  <head>II.</head>
+                  <sp>
+                     <p>
+                        <hi>Secondly,</hi> All Curſing, Swearing, and ob<g ref="char:EOLhyphen"/>ſcene or undiſcreet Language, ſhould be bani<g ref="char:EOLhyphen"/>ſhed the School as much as poſſible, and the better to prevent it.</p>
+                  </sp>
+               </div>
+               <div n="3" type="law">
+                  <head>III.</head>
+                  <sp>
+                     <p>
+                        <hi>Thirdly,</hi> Not only upon thoſe Aſſaulting dayes, but alſo the whole week throw, all per<g ref="char:EOLhyphen"/>ſons, as well Scholars as others who are only Spectators, ſhould be obliged to ſilence, at leaſt to diſcourſe within their Voices: For there can be nothing more unſeemly, than to ſee a Fen<g ref="char:EOLhyphen"/>cing-ſchool (which ſhould be a kind of Nurſe<g ref="char:EOLhyphen"/>ry for accompliſhing of Youth) all in confuſion and like to a Bir-law-Court, where there is no<g ref="char:EOLhyphen"/>thing to be heard but a Clutter and Noiſe of Tongues, whereas in a Fencing-ſchool there
+<pb n="18" facs="tcp:34923:12"/>ſhould be properly no noiſe heard, ſave that <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Aſſaulters Feet, and Flurets, and of the Ma<g ref="char:EOLhyphen"/>ſter's Advices and Reproofs, which he is to give to thoſe who are Aſſaulting, or who do not <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> behave themſelves in the School as they ought</p>
+                  </sp>
+               </div>
+               <div n="4" type="law">
+                  <head>IV.</head>
+                  <sp>
+                     <p>
+                        <hi>Fourthly,</hi> No Scholar or other Perſon ſhould preſume to Aſſault, or offer to preſent a Flo<g ref="char:EOLhyphen"/>ret to any, without having firſt asked the Ma<g ref="char:EOLhyphen"/>ſters conſent.</p>
+                  </sp>
+               </div>
+               <div n="5" type="law">
+                  <head>V.</head>
+                  <sp>
+                     <p>
+                        <hi>Fifthly.</hi> No Scholar nor Spectator without <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> a licence from the Maſter, ſhould offer to di<g ref="char:EOLhyphen"/>rect or give advice to any of the Scholars, who are either taking a Leſſon or Aſſaulting: I have heard ſeveralls when their Commerads have been Aſſaulting, call to them after this manner, Why do you not now make a Feint? There was a good time for Commanding, but you did not take it; Why do you not now purſue him O, ſee what a brave opportunity for giving a Thruſt he hath loſt, becauſe of his not Redou<g ref="char:EOLhyphen"/>bling! And a great many more ſuch expreſ<g ref="char:EOLhyphen"/>ſions as theſe, which are very unbecoming u<g ref="char:EOLhyphen"/>pon two accounts: Firſt, becauſe without per<g ref="char:EOLhyphen"/>miſſion they take upon them to play the Ma<g ref="char:EOLhyphen"/>ſter; And ſecondly, becauſe they reprove oft<g ref="char:EOLhyphen"/>times their Commerads for the ſame very fault they themſelves are moſt guilty of, although perhaps not ſenſible of it, which when By-ſtan<g ref="char:EOLhyphen"/>ders
+<pb n="19" facs="tcp:34923:12"/>perceive, they ſmile at them (and with juſt reaſon) as being both ignorant and imperti<g ref="char:EOLhyphen"/>nent; therefore it would be a great deal more commendable in them, to be more careful in rectifying their own faults, and leſs ſtrict in cen<g ref="char:EOLhyphen"/>ſuring of others.</p>
+                  </sp>
+               </div>
+               <div n="6" type="law">
+                  <head>VI.</head>
+                  <sp>
+                     <p>
+                        <hi>Sixthlie,</hi> No Scholars under ſix Moneths Teaching (unleſs the Maſter ſhall find them of an extraordinary capacity and adroitneſs) ſhould be allowed to Aſſault in publick, but till that time they are by their private Aſſaults which they have the reſt of the week, to pre<g ref="char:EOLhyphen"/>pare themſelves for their publick Practice at the ſix Moneths end; And I am confident if this were exactly obſerved, the School-play would appear a great deal prettier, and be much truer, than it is at preſent in many of the Schools.</p>
+                  </sp>
+               </div>
+               <div n="7" type="law">
+                  <head>VII.</head>
+                  <sp>
+                     <p>
+                        <hi>Seventhlie,</hi> No Scholars under a twelve Mo<g ref="char:EOLhyphen"/>neths ſtanding, ſhould be ſuffered to play in their cloaths or walking ſhoes, becauſe the play<g ref="char:EOLhyphen"/>ing in that Garb, hindereth them from ſtretch<g ref="char:EOLhyphen"/>ing, and ſo their Bodies can neither be ſo ply<g ref="char:EOLhyphen"/>able, nor their motions ſo ſubtile and ſwift, as is abſolutely neceſſary for every Man to have before he can be a good Sword man.</p>
+                  </sp>
+               </div>
+               <div n="8" type="law">
+                  <head>VIII.</head>
+                  <sp>
+                     <p>
+                        <hi>Eightlie,</hi> None ſhould be allowed to play a<g ref="char:EOLhyphen"/>bove
+<pb n="20" facs="tcp:34923:13"/>three or four fair given or receive Thruſts at a time, becauſe Mens Vigou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> if they play briskly, as they ſhould is ſpent i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> that time, and all that they do afterwards <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> but ſlow and without life, which maketh a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> play to appear but dull and unpleaſant, and therefore they had better after three or four Thruſts give place to the reſt; and ſuffer any other two to ſucceed; in which time they may recover their Wind and Vigour, and fall to <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> again if they pleaſe.</p>
+                  </sp>
+               </div>
+               <div n="9" type="law">
+                  <head>IX.</head>
+                  <sp>
+                     <p>
+                        <hi>Ninthlie,</hi> In Schools all Thruſts at the Face Arms, Wreſt, Thighs, or Legs ſhould be diſ<g ref="char:EOLunhyphen"/>charged: For although a Man when he is to engage with ſharps, may either for his own ſa<g ref="char:EOLhyphen"/>fety, or to diſable his adverſary, Thruſt at a<g ref="char:EOLhyphen"/>ny part of the body: Yet in Schools (that the neatneſs of play may the better appear) no Thruſts ſhould be allowed or accounted as fair, which are not given in the Trunk of the Body that is, beneath the Neck, and above the head-band of the Breeches, as to the length; and within the two ſhoulders, as to the breadth of the Body: For all jerking (or popping out as they call it) at the Arms or Legs, hath not one<g ref="char:EOLhyphen"/>ly no grace with it, but alſo ſpoyleth all ſchool play, which is what I am at preſent only diſ<g ref="char:EOLhyphen"/>courſing of.</p>
+                  </sp>
+               </div>
+               <div n="10" type="law">
+                  <head>X.</head>
+                  <sp>
+                     <p>
+                        <hi>Tenthlie,</hi> For the better preventing of Con<g ref="char:EOLhyphen"/>tretemps
+<pb n="21" facs="tcp:34923:13"/>in School play; when Thruſts are exchanged, I would have alwayes the Thruſt to be decided in the perſons favours who was the firſt Lancher out of the Thruſt, ſuppoſe his Adverſary ſhould alſo give him another, but without ever going to the Parrade, or of<g ref="char:EOLhyphen"/>fering to defend himſelf with his Fluret (for I would have all Defence with the left Hand in School play to be baniſhed, except againſt Ig<g ref="char:EOLhyphen"/>norants) and this is but juſt, becauſe it can hardly be ſuppoſed that a Man will thus fool<g ref="char:EOLhyphen"/>liſhly venture his Life at ſharps, and ſeeing his deſign was meerly to hit, and not to ſhow his Art, by firſt endeavouring to parrie the Thruſt, (which is the main end of Aſſaulting) it is but reaſonable that as a puniſhment for not firſt of<g ref="char:EOLhyphen"/>fering to defend his perſon, he ſhould be char<g ref="char:EOLhyphen"/>ged with the receival of a Thruſt, notwithſtand<g ref="char:EOLhyphen"/>ing of his giving another at the ſame time to his Adverſary; but if after endeavouring a Parrade, and having failed in it, he ſhall receive a Thruſt, and then give the exchanged Thruſt in the time of the others recovering his Body, then both ſhall be charged with a Thruſt, be<g ref="char:EOLhyphen"/>cauſe although the one was the firſt Lancher out of the Thruſt, yet the other after endea<g ref="char:EOLhyphen"/>vouring a Parrade and failing in it, returned him another before he recovered himſelf, or got off: Now his not getting quickly enough
+<pb n="22" facs="tcp:34923:14"/>off, ſhows he committed a groſs fault, contra<g ref="char:EOLhyphen"/>ry to the Rules of Art, for which alſo as a pu<g ref="char:EOLhyphen"/>niſhment to him he is to be charged with the Thruſt, and ſo they are to be conſidered as ſtill in equal terms until another fair Thruſt ſhall be given: I know that one Contretemps, or one exchanged Thruſt at ſharps, is of greater con<g ref="char:EOLhyphen"/>ſequence and more dangerous than a thouſand with Blunts, but the beſt and only way to pre<g ref="char:EOLhyphen"/>vent them at ſharps, is to be very careful, and to avoid them as much as is poſſible with Blunts, to which I am confident this Law if punctually obſerved, will not a litt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e contribute.</p>
+                  </sp>
+               </div>
+               <div n="11" type="law">
+                  <head>XI.</head>
+                  <sp>
+                     <p>
+                        <hi>Eleventhlie,</hi> As I ſaid before all Defence with the left ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d in School play ſhould be diſ<g ref="char:EOLhyphen"/>charged, (except againſt Ignorants and great Ramblers) For it not only taketh away a great deal of the variety of play, but it is alſo noways Graceful to ſee two making nothing but Jerks and half Thruſts at one another, and lying u<g ref="char:EOLhyphen"/>pon a Catch with their left Hand, as if the Sword hand forſooth were no otherwayes uſeful, nor not to be made uſe of but in Offending or Thruſting: I ſay therefore once again for all, that although at ſharps the uſe of the left Hand, and thruſting at the Face, Arms, or Thighs, are of great uſe and oftimes very ſurprizing, yet becauſe they hinder the variety, and take away a great deal of the gracelulneſs of ſchool play,
+<pb n="23" facs="tcp:34923:14"/>I am clearly of the opinion they ſhould be diſ<g ref="char:EOLhyphen"/>charged in all publick Aſſaults, and only al<g ref="char:EOLhyphen"/>lowed in private, that ſo the Scholars may know how to perform them, when there ſhall be a neceſſity for it. But there is as I ſaid, an ex<g ref="char:EOLhyphen"/>ception to be made here: For it were moſt un<g ref="char:EOLhyphen"/>reaſonable when a Man is to Aſſault againſt an Ignorant, or great Rambler, to diſcharge him the benefit of uſing his left hand, becauſe ſuch perſons when they Aſſault they do it out of no other deſign, but either to baffle the Artiſt if they can, or to ſhow that their Ignorance is as uſeful to them, as the others Art is to him: Therefore I ſay, in this caſe an Artiſt ſhould take all the advantage he can, becauſe his Re<g ref="char:EOLhyphen"/>putation and Credit in a manner dependeth u<g ref="char:EOLhyphen"/>pon it, and therefore the uſe of the left Hand being ſo beneficial againſt ſuch irregular Thruſts, as in reaſon may be expected from thoſe who have the confidence to make Igno<g ref="char:EOLhyphen"/>rance compeat with Art, it ſhould certainly without Controverſie be allowed; But except in this caſe, I am altogether againſt the uſe of it in School play, and that for the above writ<g ref="char:EOLhyphen"/>ten Reaſons.</p>
+                  </sp>
+               </div>
+               <div n="12" type="law">
+                  <head>XII.</head>
+                  <sp>
+                     <p>
+                        <hi>Twelfthlie,</hi> Although in moſt part of Schools one Command be reputed equal to a Thruſt, yet becauſe a frequent endeavouring to Command doth alſo prevent the variety of
+<pb n="24" facs="tcp:34923:15"/>play, I would have that cuſtom altered, and no leſs than two Commands to be reckoned e<g ref="char:EOLhyphen"/>qual with a Thruſt; I confeſs at ſharps it is one of the beſt things a Man can deſign (although it be both difficult and dangerous to perform) for by that means he not only ſaves his own ho<g ref="char:EOLhyphen"/>nour, but his Adverſaries life, which all generous Men ſhould endeavour as much as is poſſible, but although I allow Commanding to be uſed in School play; for it were unreaſonable to ba<g ref="char:EOLhyphen"/>niſh it altogethe; yet I am ſtill of the opinion that two Commands ſhould only be accounted as one Thruſt; alſo no ſtrugling is to be allow<g ref="char:EOLhyphen"/>ed to the Commanded after his Fluret is once catched hold of, nor tripping to the Comman<g ref="char:EOLhyphen"/>der after he is Maſter of it, any thing which may appear like ſtrife or contention in Schools being by any means to be avoided, and that alſo for the Reaſons before mentioned.</p>
+                  </sp>
+               </div>
+               <div n="13" type="law">
+                  <head>XIII.</head>
+                  <sp>
+                     <p>
+                        <hi>Thirteenthlie,</hi> If in an Aſſault there ſhall hap<g ref="char:EOLhyphen"/>pen a Fluret to be broke, the perſon in whoſe Hand the Fluret is, ſhall pay it, according to the value ſet upon it by the Maſter: It is true there have been Debates concerning this, ſome alledging that if a Fluret be broke upon any perſon, it is but reaſonable he ſhould pay it, be<g ref="char:EOLhyphen"/>cauſe he did not defend himſelf better from the Thruſt, but to give my opinion in this matter, it is to be conſidered, That in an Aſſault a Flu<g ref="char:EOLhyphen"/>ret
+<pb n="25" facs="tcp:34923:15"/>may be broke two wayes, either by a Thruſt or a Blow; <hi>Firſt,</hi> if it be by a Thruſt, then it is moſt juſt that he who gave the Thruſt ſhould pay it, becauſe the other hath already received Affront enough by getting the Thruſt, and his perſon being already puniſhed, it were hard to puniſh his purſe alſo. <hi>Secondly,</hi> If it be with a ſtroke or blow, it muſt either be by giving one upon your Adverſaries Fluret, and with it break your own, it is but juſt you ſhould pay it, becauſe you was the cauſe of it, but if with your ſtroak you break your Adverſaries, then he muſt pay it, becauſe by his Art he ſhould have prevented ſuch a ſmart blow, and for not doing of it is juſt<g ref="char:EOLhyphen"/>ly puniſhed with the payment of his Fluret: So for theſe Reaſons I would have it declared that the perſon in whoſe hand a Fluret is broke (whatever may be the cauſe of it) ſhould al<g ref="char:EOLhyphen"/>wayes pay it, and this deciſion I think moſt e<g ref="char:EOLhyphen"/>qual to take away all debates whatſoever, which may ariſe upon this head.</p>
+                  </sp>
+               </div>
+               <div n="14" type="law">
+                  <head>XIV.</head>
+                  <sp>
+                     <p>
+                        <hi>Fourteenthlie,</hi> It would not be amiſs, that as there is one day at leaſt of the week appointed for pub<g ref="char:EOLunhyphen"/>lick Aſſaulting, ſo there ſhould once alſo a year be a Prize put forth by the Scholars, to be played for by all perſons who intend to ſhow their Art,
+<pb n="26" facs="tcp:34923:16"/>and this would not only cauſe Scholars be more diligent and deſireous to improve themſelves, but alſo excite a curioſity in a great many peo<g ref="char:EOLhyphen"/>ple to be inſtructed in the Art, who now never ſo much as think of it: For nothing hath a greater influence upon Mens actions than Ex<g ref="char:EOLhyphen"/>ample, and if people can be but once drawn to the Schools out of a curioſity to view and ob<g ref="char:EOLhyphen"/>ſerve the Scholars Aſſaults, it is ten to one but the ſame curioſity lead them next to try what they can do themſelves, and by this means the Schools would not only be crouded with ſpecta<g ref="char:EOLhyphen"/>tors, but the Kingdom alſo furniſhed with A<g ref="char:EOLhyphen"/>droit and Couragious Swordmen, to effectuat which, is the main, if not whole deſign of our imployment.</p>
+                  </sp>
+               </div>
+               <div type="law">
+                  <sp>
+                     <p>
+                        <hi>Laſtly,</hi> It ſhould be with one conſent reſol<g ref="char:EOLhyphen"/>ved upon, that whoever ſhall contraveen any of the preceeding Laws, is to forfeit <hi>Toties Quo<g ref="char:EOLhyphen"/>ties,</hi> ſo much as ſhall be agreed upon by the Ma<g ref="char:EOLhyphen"/>ſter and Scholars, which ſhall go to the uſe of the Maſters Boy, for his greater encouragement to take care of the Scholars Cloaths, and to keep all things belonging to the School neat, and in order, which Reſolve ſhould be affixed to the preceeding Laws, and ſubſcribed firſt by the Maſter, and then by all the Scholars and others who commonly Aſſault upon thoſe pub<g ref="char:EOLhyphen"/>lick dayes.</p>
+                     <p>Thus Sir have I ſhown you how a ſchool ſhould be ordered to make it convenient, and
+<pb n="27" facs="tcp:34923:16"/>what Laws ſhould be obſerved in it, to make the Aſſaulting the more decent and regular, by this nowayes reſtricting Maſters, who are free to add what they ſhall think convenient, and take away what they ſhall judge ſuperfluous: For I do not pretend to be an infallible Law. giver to all Maſters, but that which remains and is the moſt difficult of all (although I ex<g ref="char:EOLhyphen"/>pect alſo with your Aplauſe to go throw with it) is the giving you ſuch Rules for Aſſaulting, as that againſt whatever perſon you engage, you may ſtill reap benefit by your Art, by which means you will not only have the ſcruples you propoſed to me removed, but alſo be ſatisfied that I have dealt ingenuouſly, &amp; frankly diſco<g ref="char:EOLhyphen"/>vered to you the whole <hi>myſtery</hi> of School play.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>Sir, By the reaſonableneſs of what hath been already ſaid, I may judge of the truth of what is to follow: But it ſeemeth to me very ſtrange that when ſuch exact Rules for decency in ſchools may be obſerved, there are few of our Maſters do ſo much as ever think upon them, although the obſervance of them would cer<g ref="char:EOLhyphen"/>tainly ſo much tend to make themſelves reſpected, their Art admired, and conſequently their ſchools more fre<g ref="char:EOLhyphen"/>quented.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>This Sir, I confeſs I have marvelled at my ſelf as much as any, and at firſt could not imagine what ſhould be the reaſon of this their ſo unpardonable a neglect, but after a more ſerious Reflection, I found that there are
+<pb n="28" facs="tcp:34923:17"/>a great many who take upon them the Name of Maſter, and pretend to Teach this Art, who have but little of the Judgement of it, and what<g ref="char:EOLhyphen"/>ever their Practice may be, yet their commu<g ref="char:EOLhyphen"/>nicative Art is a meer Rote, which by a conti<g ref="char:EOLhyphen"/>nual ſeven years repetition of Leſſons (the or<g ref="char:EOLhyphen"/>dinary Term of Apprentiſhip) they have ſo inrooted in them, that put them off their com<g ref="char:EOLhyphen"/>mon jog-trot of Teaching, they are imme<g ref="char:EOLhyphen"/>diatly put to a <hi>Nonplus,</hi> and if you ask them a reaſon for the moſt part of what they do, they will tell you that it does not become you to ask Queſtions; and that you are only to do what they deſire you; and if you preſs them further, then is this univerſal Reaſon given for all, I was Taught by ſuch a perſon who was reputed a brave Maſter and excellent Sword. Man, and thus and thus he taught me: Again offer but to diſcourſe with them concerning a<g ref="char:EOLhyphen"/>ny of the intricat Points belonging to the Art, and you ſhall immediatly find them either ſhift the diſcourſe, or tell you that theſe Queſtions you are asking are <hi>(Arcana Gladii)</hi> profound ſecrets, which muſt not be diſcourſed of, nor revealed to any, but ſuch as intend to make pro<g ref="char:EOLhyphen"/>feſſion of the Art, although perhaps if put to it, they can give no better ſatisfaction to the point in queſtion than this <hi>ſie dixit Praeceptor,</hi> a mean and ignorant kind of Anſwer, unbecoming any who pretend to the Name of Maſter.</p>
+                     <pb n="29" facs="tcp:34923:17"/>
+                     <p>Now <hi>I</hi> ſay when a mans chief deſign is only to attain to the ſuperficial practice of the ſword (although I confeſs this is pardonable enough in Gentlemen who are not to make any pro<g ref="char:EOLhyphen"/>feſſion of it, but to uſe it meerly for their Di<g ref="char:EOLhyphen"/>vertiſment or Defence) yet for maſters to have no more, is an unpardonable weakneſs, and let their Practice be never ſo good, yet not be<g ref="char:EOLhyphen"/>ing able to give a ſufficient reaſon for every thing they do, they ought to be look'd upon as good Practitioners, but bad Inſtructers, and when a man thus contemns Judgement and Rea<g ref="char:EOLhyphen"/>ſon, he makes uſe of the Husk and throws away the Kernel, and no wonder then if he alſo ne<g ref="char:EOLhyphen"/>glect all Decency and Regularity in his School, his deſign being only Gain, and more to ſup<g ref="char:EOLhyphen"/>ply his pocket, then improve his ſcholars un<g ref="char:EOLhyphen"/>derſtanding and judgement, or gain himſelf Eſteem and Repute where he liveth.</p>
+                     <p>But by this I am not ſo fooliſh as to main<g ref="char:EOLhyphen"/>tain, That Maſters ſhould communicate their Art for nothing; yet this <hi>I</hi> think, that a maſter ſhould have an equal proſpect, to improve his ſcholars as well in the Theorique as Pra<g ref="char:EOLhyphen"/>ctique part of his Art, as to advance his own Fortune by what they beſtow upon him: Be<g ref="char:EOLhyphen"/>ſides the Art of Fencing hath ſuch an unexhau<g ref="char:EOLhyphen"/>ſtable Treaſure of Varieties, that he muſt needs have a very ſhallow Brain, and be ſtrangely wedded to his Maſters opinions, who cannot
+<pb n="30" facs="tcp:34923:18"/>make ſome Obſervations and Improvements very much to the advantage, and founded alſo upon ſolid grounds and moſt convincing Rea<g ref="char:EOLhyphen"/>ſons: For Invention and Variety are two of the Hinges upon which the World moveth, and which with their Charms do bewitch and de<g ref="char:EOLhyphen"/>lude the moſt part of Men, and ſeing Fencing is ſo well furniſhed with them, I know no rea<g ref="char:EOLhyphen"/>ſon why it ſhould not be allowed as well as any other Art, to lay its Baits &amp; diſcover its <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nchant<g ref="char:EOLhyphen"/>ments, eſpecially when but few can go beyond it as to either; but I know none are more to be blamed for this than thoſe Maſters, (I ſhould rather ſay Pretenders to that Title) <hi>I</hi> am diſ<g ref="char:EOLhyphen"/>courſing of.</p>
+                     <p>For far be it from me to tax all Maſters with this Ignorance and meanneſs of Spirit, ſeing I certainly know there are ſome to be found in theſe Iſlands, who are moſt underſtanding and judicious, and who take delight to communi<g ref="char:EOLhyphen"/>cate what they know to their Schollars; par<g ref="char:EOLhyphen"/>ticularly we have in this Kingdom one Mr. <hi>Machrie,</hi> at preſent Judge and Arbitrator in all publick Tryalls of Skill, who is ſo far from being guilty of this Ommiſſion, that he ra<g ref="char:EOLhyphen"/>ther I may ſay, runneth if poſſible upon the other extream for which he is very much to be commended, and for his way of Teaching it is ſo methodical, and ſo conform to the Rules of Art, and ſolid dictats of Reaſon, that there
+<pb n="31" facs="tcp:34923:18"/>can be nothing more exact, which evidently appears by the regularity of ſuch perſons play who have been any time his Scholars: So that without being thought to Complement him, I may ſay that both for his Theory and Pra<g ref="char:EOLhyphen"/>ctice, he may compeat with moſt Maſters, having more than once given proof of the Latter at Sharps, and the truth of the For<g ref="char:EOLhyphen"/>mer will be evident to any who will but take notice to his method of Teaching; he hath alſo amongſt his other Qualifications, this advan<g ref="char:EOLhyphen"/>tage which many Maſters want, for he is not on<g ref="char:EOLhyphen"/>ly a great Maſter of the Small, but alſo under<g ref="char:EOLhyphen"/>ſtandeth the Art of the Broad or Back-Sword to perfection: ſo that I have ſeen ſeveral <hi>Engliſh</hi> &amp; <hi>Iriſh</hi> who pretended to be publick Gladiators ſo baffled by him, when out of civility he preſen<g ref="char:EOLhyphen"/>ted them in his School with a Cudgel, that any Artiſt would have judged them to have been but the Scholars, and him the Maſter, as he indeed was but too much, conſidering the advantage his juſt and ſmart play had over theirs: And really Sir, relating to this ſubject I am diſcourſing of, I can ſcarce give you a more friendly Advice, than to deſire you to be ac<g ref="char:EOLhyphen"/>quainted with him, &amp; if you will give your ſelf but the trouble to communicate to him what <hi>I</hi> have, and ſhall ſay to you upon this ſubject, I doubt not in the leaſt but he will approve of it, and be one of the firſt who ſhall cauſe obſerve in his School theſe Rules I have laid down for
+<pb n="32" facs="tcp:34923:19"/>Aſſaulting, and alſo add more of his own to them, as he ſhall think fit and convenient.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>Sir, it ſeems this Maſter and you muſt be very intimate, that you give me ſo favourable a cha<g ref="char:EOLhyphen"/>racter of him: For I find the generality of Fencing Maſters now a dayes do quite the contrary, for inſtea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> of commending their Brother Profeſſors, they do all they can to reproach, callumniat, and leſſen their eſteem <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> all the mean and baſe methods imaginable, whereat I perceive you are quite of another temper; for you <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> prove only thoſe who are guilty of Errors, &amp; Ommiſſions but you have an eſteem for, and gives a favourabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> character of ſuch who by their carriage and conduct deſerve to be well lookt upon and encouraged.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Sir, although I cannot deny, but the Maſter of whom I am diſcourſing is of my ac<g ref="char:EOLhyphen"/>quaintance, yet I aſſure you there is nothing of Flatery in what I have ſaid, for I am confiden<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> every judicious Artiſt who knows the method he taketh to communicate his Art, will confe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> he fully deſerves the Applauſe I have give him, and upon any other account, take my word for it, I am no more concerned in him than i<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> any other Profeſſor, but I think every Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhould have his due, and I think his is rathe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> more, as leſs than what I have given him; fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> love to deal fairly and judge impartially, and wiſh all Maſters were of the like temper: Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> as you have very well obſerved, it is a ſham<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <pb n="33" facs="tcp:34923:19"/>and reflection upon perſons of the ſame profeſ<g ref="char:EOLhyphen"/>ſion, to ſee them at ſuch Odds &amp; Variance one with another, that they are ſcarcely in ſpeak<g ref="char:EOLhyphen"/>ing terms, and doing all they can to draw-away &amp; ſeduce others Schools by making them beleive that they have a meer Dolt and Igno<g ref="char:EOLhyphen"/>rant of a Maſter to deal with, and that them<g ref="char:EOLhyphen"/>ſelves are the only Perſons ſhould be applyed to, to make them Sword men; this way of dealing is neither generous nor honeſt, and ſo long as there are ſuch jarrings amongſt Profeſ<g ref="char:EOLhyphen"/>ſors, it is no wonder if the Art decay, and run into de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uitude and contempt.</p>
+                     <p>Therefore if I might take upon me to adviſe ſuch perſons, I would recommend to them Con<g ref="char:EOLhyphen"/>cord and Unity, and that they would be ſo far from contention &amp; animoſitys, that they ſhould rather have monthly Conferences concerning the Art, and Methods of reaching it, and if they obſerved this they, would not, only in a ſhort time become cordial and unanimous, but alſo rectifie any ſuperfluetys or omiſſions which might be in their teaching, and ſo make the Method of communicating the Art to be one and the ſame throw the three Kingdoms; for there is but one way of teaching which can be accounted the trueſt, and when a man finds e<g ref="char:EOLhyphen"/>very Maſter affirming that perfection to his Method and yet ſuch a ſenſible difference a<g ref="char:EOLhyphen"/>mongſt each, it gravells him a little fixedly to
+<pb n="34" facs="tcp:34923:20"/>determine which of them he ſhould apply to to be his inſtructer, and being with their De<g ref="char:EOLhyphen"/>bates thus puſled and left in the miſt, he at laſt reſolves to imploy none of them, but to make the beſt uſe he can of what courage Nature hath beſtowed upon him, and thus inſtead of gaining Credit or repute to themſelves or in<g ref="char:EOLhyphen"/>creaſſing the Eſteem for Art, they both get themſelves Laught at, and the Art neglected and undervalued; but I am hopeful that for the future they will be ſenſible of their Errors in this as well as other particulars, and endea<g ref="char:EOLhyphen"/>vour to rectifie them, I am ſure it would prove both for their Intereſt and Advantage if they did, and ſo I leave them, having made too long a Digreſſion conſidering the ſhort time I have to diſcourſe with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>Sir, it is my misfortune that you cannot inſiſt longer upon this matter, for by what you have ſaid I am clearly convinced, you could ſay a great deal more upon the Head.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Sir, I beleive I could, and to ſatisfie your curioſity, and ſhow that I am noways nice or ſcrupolus, to diſcourſe with you freely of any thing I know in this matter, I am ſatisfied that when we have a fit opportunity we meet again, and whatever you propoſe to me, I ſhall endeavour to give you all the ſatisfaction in it I can, but at preſent let me proſecute my de<g ref="char:EOLhyphen"/>ſign to give you ſome infalible Rules for Aſ<g ref="char:EOLhyphen"/>ſaulting,
+<pb n="35" facs="tcp:34923:20"/>which when practiſed, may make you ſenſible that the labour and pains you have taken in following this Art, is not ſo much in vain and to no purpoſe, as you do imagine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>With all my Heart Sir, and I moſt heartily thank you for the propoſall you have made, which I aſ<g ref="char:EOLhyphen"/>ſure you I ſhall not let flip the very firſt Occaſion ſhall offer, there being nothing I take more delight in, than to hear things rationally diſcourſed off, eſpecially by one who can do it ſo well as I perceive you can.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>This Complement Sir, is I am very ſen<g ref="char:EOLhyphen"/>ſible far beyond what I deſerve, but leaſt I ſhould looſe time, or perhaps fail in giving a Reparty ſutable to it, I ſhall forbear attemp<g ref="char:EOLhyphen"/>ting one at preſent, and proceed to what I look upon as an undiſpenſible duty lying upon me to perform to any Scholar, but more particu<g ref="char:EOLhyphen"/>larly Sir to you who have taken ſo much pains, and are ſo deſirous to be informed; therefore that I may omit nothing which may appear neceſſary to our diſcourſe, or tend to your fur<g ref="char:EOLhyphen"/>ther improvement and ſatisfaction, I am re<g ref="char:EOLhyphen"/>ſolved to lay you down Rules to be obſerved by all Scholars, in theſe following Circum<g ref="char:EOLhyphen"/>ſtances: <hi>viz.</hi>
+                     </p>
+                  </sp>
+               </div>
+            </div>
+            <div type="circumstances">
+               <div n="1" type="circumstance">
+                  <head>Circumſtance firſt.</head>
+                  <sp>
+                     <p>
+                        <hi>Firſt,</hi> When they deſign by their privat Practice to waine themſelves from their Maſ<g ref="char:EOLhyphen"/>ters Breaſt, and by ſo doing prepare themſelves for their publick Aſſaults.</p>
+                  </sp>
+               </div>
+               <div n="2" type="circumstance">
+                  <pb n="36" facs="tcp:34923:21"/>
+                  <head>Circumſtance ſecond.</head>
+                  <sp>
+                     <p>
+                        <hi>Secondly,</hi> When being wained from their Ma<g ref="char:EOLhyphen"/>ſters Breaſt they are to Aſſault publickly againſt ſuch who are actually Scholars, or who hav<g ref="char:EOLhyphen"/>ing once been ſo, cannot be ſuppoſed to be great Ramblers.</p>
+                  </sp>
+               </div>
+               <div n="3" type="circumstance">
+                  <head>Circumſtance Third.</head>
+                  <sp>
+                     <p>
+                        <hi>Thirdly,</hi> When they are to Aſſault publickly againſt ſuch who have never had any Art and therefore are juſtly to be ſuſpected of Ram<g ref="char:EOLhyphen"/>bling. And,</p>
+                  </sp>
+               </div>
+               <div n="4" type="circumstance">
+                  <head>Circumſtance Fourth.</head>
+                  <sp>
+                     <p>
+                        <hi>Fourthly,</hi> When they are to engage with Sharps for their Honour or Life, or to Aſſault with Blunts for a Prize, againſt Perſons they are noways acquainted with, nor perhaps did ever ſee or hear of before.</p>
+                     <p>But before I proceed to the Rules, I will en<g ref="char:EOLhyphen"/>deavour to Anſwer the firſt Queſtion you at firſt propoſed to me, which was, what the rea<g ref="char:EOLhyphen"/>ſon could be of your playing the Leſſons ſo ex<g ref="char:EOLhyphen"/>actly upon my breaſt, but performing them ſo irregularly, and to ſo little purpoſe in Aſ<g ref="char:EOLhyphen"/>ſault againſt your Commerades.</p>
+                     <p>In Anſwer to which, I would have you know that there is as much difference betwixt taking a Leſſon, or playing upon a Maſters breaſt, and Aſſaulting or performing the ſame, Leſſons u<g ref="char:EOLhyphen"/>pon your Commerads, as there is betwixt the repeating of an eloquent Diſcourſe already
+<pb n="37" facs="tcp:34923:21"/>penned, and the compoſing of one: For as this can only flow from a ſolid Brain, and a quick Conception and Judgement, ſo may that be delivered by a Crakt brain fool, void of all good Qualities, ſave a good Memory: And ſo are the Leſſons played by Scholars u<g ref="char:EOLhyphen"/>pon a Maſters Breaſt-plate, delivered for the moſt part, by the Rote of continual Practice, without almoſt ever reflecting upon any reaſon for what they are doing, beſides that, the Ma<g ref="char:EOLhyphen"/>ſter complies with, and humoreth them in e<g ref="char:EOLhyphen"/>very thing they are to perform, whereas when they are to play againſt their Commerads, in<g ref="char:EOLhyphen"/>ſtead of being humored by them, they, as they have good reaſon, do all lyeth in their power to croſs and confound their deſigns and moti<g ref="char:EOLhyphen"/>ons, which putteth young Scholars ſo by their Meaſures (for they expected to meet with no oppoſition) that they are put to a ſtand or ne<g ref="char:EOLhyphen"/>ceſſitat ſometimes to uſe Nature in place of Art, and it muſt ſtill be ſo with them ſo long as they play only by Rote, and not with Judge<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>Now Sir, you may eaſily apply what I am ſaying to your ſelf: For you may perceive when I give you a Leſſon, I order you to do ſuch and ſuch a thing, as alſo that you may perform it the better, and with the more grace and eaſe, I am ſo far from croſſing you, that I oftimes humor the motions you are making
+<pb n="38" facs="tcp:34923:22"/>ſo that ſtrictly ſpeaking, you conform your ſelf and are reſtricted to my Judgement, and do not follow your own, whereas when you play againſt any of your Commerads they be<g ref="char:EOLhyphen"/>have quite otherwiſe with you: For you find they do all they can to counteract and croſs your deſigns, which is the reaſon you can ſcarcely play any one Leſſon upon them with<g ref="char:EOLhyphen"/>out being leſs or more interrupted in the per<g ref="char:EOLhyphen"/>forming of it: So being by this made ſenſible of the vaſt difference there is betwixt taking of a Leſſon and Aſſaulting, it will be in my opi<g ref="char:EOLhyphen"/>nion no hard matter for you to conclude upon the reaſon of your having ſuch bad ſucceſs in your ordinary Aſſaults; to remedy which I ſhall therefore give you Rules to be obſerved in this firſt Circumſtance.</p>
+                  </sp>
+               </div>
+            </div>
+            <div n="1" type="rules">
+               <head>
+                  <hi>R<g ref="char:V">Ʋ</g>LES to be Obſerved in the firſt</hi> Cir<g ref="char:EOLhyphen"/>cumſtance.</head>
+               <div n="1" type="rule">
+                  <head>RULE 1.</head>
+                  <sp>
+                     <p>
+                        <hi>Firſt,</hi> No Scholar (according to the Laws I have ſet down for Schools) being allowed under ſix months teaching to Aſſault in publick, I do poſitively alſo bind him up for the firſt three months of thoſe ſix, from any practice whatſoever, except what he ſhall acquire by playing upon his Maſters breaſt, or by Parrying or Thruſting a plain Thruſt upon any of his Commerads at the wall.</p>
+                  </sp>
+               </div>
+               <div n="2" type="rule">
+                  <pb n="39" facs="tcp:34923:22"/>
+                  <head>RULE 2.</head>
+                  <sp>
+                     <p>
+                        <hi>Secondly,</hi> The laſt three moneths I allow him beſides the taking of his Leſſons, to practice privately (that is to ſay, any time except upon the publick Aſſaulting days) with any of his Commerads, and therefore to that end I ad<g ref="char:EOLhyphen"/>viſe him.</p>
+                  </sp>
+               </div>
+               <div n="3" type="rule">
+                  <head>RULE 3.</head>
+                  <sp>
+                     <p>
+                        <hi>Thirdly,</hi> To make choiſe of ſuch of his Com<g ref="char:EOLhyphen"/>merads to play againſt, as he knows will not altogether croſs, but humour him in ſome, and oppoſe him in others of his Motions or Leſſons: For were he altogether croft at firſt, it might quite ſpoil him, undoing more in one day than his Maſter could repair in ſix.</p>
+                  </sp>
+               </div>
+               <div n="4" type="rule">
+                  <head>RULE 4.</head>
+                  <sp>
+                     <p>
+                        <hi>Fourthly,</hi> In his three laſt months private practice, he ſhould keep cloſs to the Leſſons hath been taught him by his Maſter, doing them all with as good a Grace, and with as great Stretches of the Body and Limbs as poſſi<g ref="char:EOLhyphen"/>ble, alwayes performing them with Vigour, and going throw with them: For whether he hit or miſs, plant or miſplant at firſt, it is no great matter, ſeing after a little practice he will certainly come to do both.</p>
+                     <p>Now if this method be exactly obſerved, he will not only in theſe three laſt months be con<g ref="char:EOLhyphen"/>firmed in the Leſſons have been taught him, but it will alſo make him firm upon his Joints,
+<pb n="40" facs="tcp:34923:23"/>and give him a ſwift hand and agility of body, which will conſequently make him the more fit for his publick Aſſaults at the time appoin<g ref="char:EOLhyphen"/>ted, and if this do it not, I aſſure him he may diſpair of ever coming any great length in this Art; for ſix months are aboundantly ſufficient for any man to diſcover and know his own diſ<g ref="char:EOLhyphen"/>poſition, and if at the end of them he hath not made a conſiderable advance, he may be fully perſwaded that he will never make an extraordinary Sword man, for as men are ſaid to be born Poets, but by Practice to become Orators, ſo a Maſter may force Leſſons upon a Scholar and give him form, but he can never inſpire him with Judgement to contrive, or Life and Vigour to execute and perform any thing hath been taught him, this is the work of Nature, and therefore a man muſt have a Natural and Particular diſpoſition for it.</p>
+                     <p>It is true by a long Practice of many years a man may in ſome meaſure force Nature, and make a more conſiderable Advance, then in Reaſon could have been expected, but this is not to be truſted to, therefore according to the Advance and Improvement which a man maketh in the firſt ſix months (provided he hath plyed it cloſely) ſo let him judge of what he may expect from his Practice after<g ref="char:EOLhyphen"/>wards; yet it is alſo to be obſerved (and it is
+<pb n="41" facs="tcp:34923:23"/>very well worth noticing) that a man will make a greater Advance in the firſt ſix months, then he will do in the next eight or ten, and he will alſo improve more in that nixt eight or ten, then he will do in two years thereafter, and the Reaſon is, becauſe betwixt Nature and Art there is a ſenſible difference which is very perceptable, but once having entered it's Territories, the way becomes ſo deep, and there are ſuch Labarinths of Invention and Variety in it, that a man advances but like a ſnail, very ſlowly, but ſecurely, let no man then diſpair although after having made a great Progreſs in the firſt ſix months, he do not find the ſame proportion obſerved after<g ref="char:EOLhyphen"/>wards, for I aſſure him that although it be ſo very little that it is almoſt imperceptable, yet nowithſtanding of that he is alwiſe advancing and improving to the better, therefore let him take Courage and perſiſt in his Practice, and at laſt he will not fail to attain to a conſi<g ref="char:EOLhyphen"/>derable degree of that perfection he ſo much aimed at, and for which he was at ſo much expences and toil; but I have inſiſted to long upon this.</p>
+                  </sp>
+               </div>
+            </div>
+            <div n="2" type="rules">
+               <head>
+                  <hi>R<g ref="char:V">Ʋ</g>LES to be Obſerved in the ſecond</hi> Cir<g ref="char:EOLhyphen"/>cumſtance.</head>
+               <sp>
+                  <p>Having according to my former Directions (by your private Practice) confirmed your
+<pb n="42" facs="tcp:34923:24"/>ſelf in your Leſſons and prepared your ſelf for publick Aſſaulting, you muſt now ſteer your courſe another way, and as a skillful Pilote be prepared to ſtand out againſt any ſtorm you may meet with, for as in your private Practice your play was but looſe; &amp; you did meet with little oppoſition, ſo now it muſt be more cloſs and ſecure, and you muſt expect to meet with all the oppoſition imaginable, therefore that you may in ſuch a Circumſtance behave your ſelf the better, I will firſt give you two general Rules, which muſt undiſpenſably be made uſe of upon all occaſions, and againſt all perſons whatſoever, whither skillful or igno<g ref="char:EOLhyphen"/>rant, or when you are to engage with Blunts or Sharps; and then proceed to the Rules which do more particularly relate to this ſe<g ref="char:EOLhyphen"/>cond Circumſtance.</p>
+               </sp>
+               <div n="1" type="rule">
+                  <head>Firſt General R<g ref="char:V">Ʋ</g>LE.</head>
+                  <sp>
+                     <p>
+                        <hi>Firſt,</hi> As you are upon the one hand, to pre<g ref="char:EOLhyphen"/>vent as much as poſſible all Looks and Jeſtures in your ſelf, which may any wayes tend to the diſcovering of your deſigns: So upon the other, you muſt conſider and view the perſon you are to engage againſt, to ſee if you can draw any obſervation, either from his Carriage and Je<g ref="char:EOLhyphen"/>ſture, or Countenance, and this may be done al<g ref="char:EOLhyphen"/>moſt in the time you are preſenting your Sword, if you once a little accuſtom your ſelf to it.</p>
+                     <pb n="43" facs="tcp:34923:24"/>
+                     <p>Now by this you will reap a great advan<g ref="char:EOLhyphen"/>tage: For if you perceive Fury and Foreward<g ref="char:EOLhyphen"/>neſs in his Carriage or Looks, then you may in all probability expect a vigorous Attaque, upon the contrary if you perceive a Coldneſs or Remiſneſs in his Actions, or concern in his Countenance, then if he be an Artiſt, you may expect a very regular kind of play from him, but if ignorant, then he will probably have neither Heart nor Hand to perform any thing with either Life or Vigour let it be never ſo con<g ref="char:EOLhyphen"/>trary to Art; and therefore in ſuch a caſe you will not find it very difficult to oppoſe and ma<g ref="char:EOLhyphen"/>ſter him: So by thoſe Obſervations you may in a manner prepare your ſelf, and in ſome meaſure conform your play to what you ſhall expect from him, which is no ſmall Advan<g ref="char:EOLhyphen"/>tage, eſpecially if you are to engage for your Life.</p>
+                     <p>It's true it may be objected, That no Man upon all occaſions can obſerve this Rule, be<g ref="char:EOLhyphen"/>cauſe in a ſudden encounter a Man hath ſcarce any more time allowed him, than what he ſhall take to preſent his Sword; and it cannot be expected that in ſo ſhort a time he can draw any conſiderable obſervation from a perſons Jeſture or Countenance, whom perhaps he did never hear of, nor ſee before.</p>
+                     <p>I indeed confeſs it is ſomewhat difficult for ſuch who are but Novices in this Art, to reap
+<pb n="44" facs="tcp:34923:25"/>upon ſuch an occaſion any advantage by it, but for perſons who have been accuſtomed to Aſſault with People of different humors and play, if they will make it their buſineſs a little, they will in a very ſhort time become ſo expert in it (for cuſtom in this, as in all other things, will prove a ſecond Nature) that even at the very firſt or ſecond view they will diſcover ſomething: And it is to be obſerved that every Man when he quarrells in an Encounter ſhould at the very drawing of his Sword, jump five or ſix yards (if he have ſo much ground) from his Adverſary, to prevent being ſurprized by any unexpected motion he may make upon him, and in the time he is doing this, and ad<g ref="char:EOLhyphen"/>vancing again upon his Guard, he may always make ſome obſervation which may tend to his advantage, let it be never ſo ſmall or inconſi<g ref="char:EOLhyphen"/>derable.</p>
+                     <p>Alſo People ſeldom quarrel but there is ſome diſcourſe or words exchanged, before they come to draw upon other: Now if the perſon you are like to quarrel with be one whom you know, then by the character he hath, or by what you know of him already your ſelf, you may judge what is reaſonably to be expected from him; but if he be altogether a Stranger to you, then alſo in the very time you are diſ<g ref="char:EOLhyphen"/>courſing, or I may ſay picking the Quarrel, you may make ſome little obſervation, which may
+<pb n="45" facs="tcp:34923:25"/>prove advantagious how little ſoever it be: So that this objection hath not ſuch force with it as it ſeems to have at firſt view, and before it be a little more narrowly conſidered; and therefore in my opinion ſhould have no ſuch influence upon any Man as to cauſe him neglect the obſervation of what may be ſo beneficial and uſeful to him.</p>
+                  </sp>
+               </div>
+               <div n="2" type="rule">
+                  <head>Second General R<g ref="char:V">Ʋ</g>LE</head>
+                  <sp>
+                     <p>The <hi>Second</hi> is, That you never ſuffer the per<g ref="char:EOLhyphen"/>ſon you are engaged againſt, to make too full a purſute upon you: I know it is ſcarcely poſſi<g ref="char:EOLhyphen"/>ble to hinder a Man to purſue, who is fully re<g ref="char:EOLhyphen"/>ſolved to do it; but my meaning is, that you do not humor his purſute too much, by either alto<g ref="char:EOLhyphen"/>gether quiting a half Purſute (which you ſhould for the moſt part make uſe of till you change it into a true one) or by breaking too much his meaſure, which is commonly called looſing of ground, for a too frequent uſe of either doth both give a man an ill habit, ſo that he can<g ref="char:EOLhyphen"/>not without difficulty forbear them when he would, and alſo maketh his Adverſary the brisker, &amp; encourages him to continue his Pur<g ref="char:EOLhyphen"/>ſute with the more violence and furry when he finds he is given ſo much way to. And it is alſo generally obſerved that he who is the briskeſt Purſuer hath moſt commonly the better of it, eſpecially if both parties be alike dexterous &amp;
+<pb n="46" facs="tcp:34923:26"/>equally Maſters of the Parrade, but this ob<g ref="char:EOLhyphen"/>ſervation doth not alwiſe hold good, although I cannot deny but if a man make a vigorous Purſute, conducted ſo with Judgement as that he can upon a ſudden alter it into a Parrade, he will ſeldom find any great perjudice by it, and it is upon that very account I recommend the preventing of it by a half Purſute in a mans Adverſary as much as is poſſible, for to make a full Purſute without having a fair opportu<g ref="char:EOLhyphen"/>nity, were but to play at random, and expoſe ones ſelf to unevitable contretemps and ex<g ref="char:EOLhyphen"/>changed Thruſts, and ſo render Art altogether in effectual. Therefore the only ſafe and reaſ<g ref="char:EOLhyphen"/>onable Method to prevent any of theſe dang<g ref="char:EOLhyphen"/>erous extreams, is to make uſe of a brisk Me<g ref="char:EOLhyphen"/>dium or half Purſute, which you may alter at pleaſure, or as you ſhall be put to a pinch.</p>
+                  </sp>
+               </div>
+               <div type="particular_rules">
+                  <head>
+                     <hi>Particular R<g ref="char:V">Ʋ</g>LES for the ſecond</hi> Circumſtance.</head>
+                  <sp>
+                     <p>Having by theſe two General Rules layed a ſolid Foundation, to be uſed againſt all Hu<g ref="char:EOLhyphen"/>mours and Perſons whatſoever; I ſhall now pro<g ref="char:EOLhyphen"/>ceed to thoſe which relate more particularly to this ſecond Circumſtance. And,</p>
+                  </sp>
+                  <div n="1" type="particular_rule">
+                     <head>RULE 1.</head>
+                     <sp>
+                        <p>
+                           <hi>Firſt,</hi> Being to Aſſault publickly, and hav<g ref="char:EOLhyphen"/>ing ſhifted your ſelf and come to the place of Aſſault, your Adverſary being there alſo, ſalute
+<pb n="47" facs="tcp:34923:26"/>him with your Fluret as your Maſter ſhall have taught you, with as good a grace as poſſible, and then put your ſelf into what Poſture or Guard you intend to play from, being ſure to do both without your Adverſarys meaſure, leaſt he ſhould ſurprize you with any ſudden or un<g ref="char:EOLhyphen"/>expected motion.</p>
+                     </sp>
+                  </div>
+                  <div n="2" type="particular_rule">
+                     <head>RULE 2.</head>
+                     <sp>
+                        <p>
+                           <hi>Secondly.</hi> Being thus upon your Guard and reſolved to make ſome Attempt, be ſure be<g ref="char:EOLhyphen"/>fore you do it to conſider what contrarys he may make uſe of, againſt the Leſſons where<g ref="char:EOLhyphen"/>with you deſign to attaque him, that ſo you may prevent them for a man who begins any Purſute without this conſideration expoſeth himſelf to unevitable hazard and danger.</p>
+                        <p>I cannot illuſtrate this better then by com<g ref="char:EOLhyphen"/>paring it to a Gameſters conduct at Cheſs, which Game although it differ vaſtly from Fencing, as to the particular manner of exe<g ref="char:EOLhyphen"/>cuting its deſignes, yet the reaſon upon which both their executive parts are grounded is the very ſame, for as at that Game no underſtan<g ref="char:EOLhyphen"/>ding player will offer to move any of his men untill he hath firſt reckoned two or three at leaſt of the ſtroaks, which his Adverſary can play againſt him, if he ſhould make ſuch or ſuch a ſtep, that ſo he may not only the better ſecure his own men, but alſo endanger the
+<pb n="48" facs="tcp:34923:27"/>taking of his Adverſarys, if he upon the other hand be not fully as circumſpect to defend them. So in Fencing although it be as quick and active an excerciſe as the other is a ſlow and tedious but moſt diverting Game, yet notwithſtanding of the ſwiftneſs it requireth there is an abſolute neceſſity for every man be<g ref="char:EOLhyphen"/>fore he engage in an attaque, firſt, to conſider what he is to do himſelf, and then what con<g ref="char:EOLhyphen"/>trarys his Adverſary can uſe againſt him, and if he neglect this, whatever he doth is but at random, and he can never expect it can ſuc<g ref="char:EOLhyphen"/>ceed, unleſs it be by meer hazard and chance, whereas if he did conſider or (as the Proverb is) Look before he leap, he would not only in a manner prevent his own ruine, but alſo make it the more difficult for his Adverſary to oppoſe his Purſute and defend himſelf, and having thus conſidred what contrarys his attaque may meet with, he ſhould then go briskly forwards with it and fear nothing, ſeeing he already knows what in reaſon may be expected.</p>
+                        <p>For as it is an old and wiſe <hi>maxime</hi> amongſt Great and Experienced Generals, that in their Councils before they venture to give Battel, they ought to forſee all dangers, but in fighting to overſee them, that by their good example, they may the more embolden and encourage their Souldiers to do the like, ſo ſhould an un<g ref="char:EOLhyphen"/>derſtanding Sword-man endeavour to forſee
+<pb n="49" facs="tcp:34923:27"/>what contrarys his Adverſary may uſe againſt his purſute, but when once he is engaged, he ſhould overſee them, that is not be diſcourag<g ref="char:EOLhyphen"/>ed, but go boldly foreward as if there were no ſuch thing as hazard or danger to oppoſe him.</p>
+                     </sp>
+                  </div>
+                  <div n="3" type="particular_rule">
+                     <head>RULE 3.</head>
+                     <sp>
+                        <p>
+                           <hi>Thirdly,</hi> Having reſolved upon the Leſſon you intend to make uſe of, (of which you may find a great variety in my Book intituled the <hi>Scots Fencing Maſter</hi>) immediately approach u<g ref="char:EOLhyphen"/>pon him with the half purſute of it to try how he receives you, if you find him give way by retiring; then by redoubling continue your perſute, and change it into a true one, having alwiſe a ſpecial care that he take not time u<g ref="char:EOLhyphen"/>pon you, when you are in the heat of your Purſute for perhaps it may be upon that deſigne that he breaks your meaſure a little at firſt, therefore have a care of it, but upon the con<g ref="char:EOLhyphen"/>trary if you either find him ſtand fixed to re<g ref="char:EOLhyphen"/>ceive you, or approach and meet you alſo with a Purſute, then notwithſtanding of your conti<g ref="char:EOLhyphen"/>nuing your half Purſute (for remember to give alwiſe as little way as poſſible) have your Parrade ſtill in readineſs that in an inſtant you may defend your ſelf when he ſhall put you to it, that is when you perceive he will be at you, although he ſhould do it with the hazard of a Thruſt; Therefore when you find him preſs ſo hard home, take your ſelf to the defenſive
+<pb n="50" facs="tcp:34923:28"/>Part, and breaking his meaſure a little anſwer him with Thruſts ſmartly given from the Re<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oſt; and if you perform this neatly you will find he will have but a ſmall, if any advantage at all, by his ſo ventorious a Purſute.</p>
+                     </sp>
+                  </div>
+                  <div n="4" type="particular_rule">
+                     <head>RULE 4.</head>
+                     <sp>
+                        <p>
+                           <hi>Fourthly,</hi> Whatever part you take your ſelf to, whither defenſive or offenſive, perform it alwiſe patiently and with Judgement, but with all the Life, ſmartneſs, and vigour imagin<g ref="char:EOLhyphen"/>able, and ſeing (according to the Laws for Schools) you are to play no longer than till the three firſt fair Thruſts be given or received, I would advice you when you are once confir<g ref="char:EOLhyphen"/>med in your Leſſons, and well accuſtomed with Aſſaulting, to play as earneſtly and concernedly for them, as if your Credit and Reputation lay at ſtake, and by doing this you will find a great advantage, for it will accuſtom you to the true play with Sharps, which is all done in a bruſh, and like Thunder and Lightning is quick and ſmart for the time, but ſoon over, making a deſicion of the quarrel by the victory given to one or other of the Partys.</p>
+                     </sp>
+                  </div>
+                  <div n="5" type="particular_rule">
+                     <head>RULE 5.</head>
+                     <sp>
+                        <p>
+                           <hi>Fifthly,</hi> I would advice you not to uſe al<g ref="char:EOLhyphen"/>wiſe one Method of play, for by ſo doing a man if he be any ways attentive, will after three or four times Aſſaulting with you, diſ<g ref="char:EOLhyphen"/>cover
+<pb n="51" facs="tcp:34923:28"/>ſo much by it, as will make him very near conjecture what Leſſons you are to run u<g ref="char:EOLhyphen"/>pon, and ſo make it the more eaſie for him to oppoſe you; therefore uſe one day point or diſ<g ref="char:EOLhyphen"/>engaged play, another day Binding, a third Commanding or Paſſing, I do not mean that you ſhould uſe thoſe days nothing elſe but one kind of Leſſon, but that upon the day you in<g ref="char:EOLhyphen"/>tend to uſe point play, your play may run moſtly upon that, although you intermix it alſo with other kind of Leſſons, ſo when you intend to play from Binding, you may uſe ſome paſ<g ref="char:EOLhyphen"/>ſing, commandings, or other Leſſons, although your play for that day run moſt upon binding, the other Leſſons being but uſed be the by as it were, to make it take the more effect; And thus obſerving no ſet form, you will make it a great dale more difficult for your Adverſary to conjecture and find out what you would be at, or by what Method you reſolve to attaque him, then if you ſhould make a conſtant re<g ref="char:EOLhyphen"/>petition of the ſame Leſſons; But this Rule is chiefly to be obſerved when you play fre<g ref="char:EOLhyphen"/>quently againſt one perſon,</p>
+                     </sp>
+                  </div>
+                  <div n="6" type="particular_rule">
+                     <head>RULE. 6.</head>
+                     <sp>
+                        <p>
+                           <hi>Sixthly,</hi> As I have adviced you when you play oft againſt one Perſon, to alter your Method of play, the better to prevent his knowing what Leſſons you are to purſue him with, ſo is it no leſs neceſſar for you if you intend to be a great Pro<g ref="char:EOLhyphen"/>ficient
+<pb n="52" facs="tcp:34923:29"/>in this Art, to change the Perſons you are to Aſſault againſt, therefore I deſire that you may accuſtome your ſelf to play with all kinds of People, for nothing gives a man more the Judgement of this Art, and Improves him better then continual Practice with variety of Humours, this makes him to know all Methods of play, to be acquainted with all conſtitutions of Ignorants and Ramblers, to acquire a ge<g ref="char:EOLhyphen"/>neral and univerſal defence, and conſequently to be prepared againſt all Encounters, whereas if he Aſſault conſtantly againſt one or two perſons they come to underſtand others play ſo well, that the one knows almoſt what Contrarys to make uſe of, before the other hath well begune his Purſute, and therefore it is impoſſible ſuch Perſons can ever make that improvement which they certainly would, were there Prac<g ref="char:EOLhyphen"/>tice more univerſal, and not ſo reſtricted to the particular humors of perhaps but two or three Scholars.</p>
+                        <p>And here I cannot omit to ſhow the folly of ſuch nice young Gentlemen who will neither take a Leſſon but in Private, nor Aſſault if any be in the Room ſave the Perſon againſt whom they are to Play, as if forſooth it were a reflecti<g ref="char:EOLhyphen"/>on upon them to be ſeen receive their Leſſon, or a diſparadgement to them, to be thought to ſtand in need of Aſſaulting to improve them<g ref="char:EOLhyphen"/>ſelves; and yet theſe ſame nice Sparks who can<g ref="char:EOLhyphen"/>not
+<pb n="53" facs="tcp:34923:29"/>endure to be thought ignorant of any thing, will have confidence enough, and make no ſcru<g ref="char:EOLhyphen"/>ple to go to a publick Ball, and bungle a Cour<g ref="char:EOLhyphen"/>rant, Minuet or Scots meaſure, before a great many fine Ladys, perhaps of the beſt quality of the Kingdom; which I think cannot but reflect a great dale more upon their Impudence, then either their publick taking of a Leſſon or Aſ<g ref="char:EOLhyphen"/>ſaulting can do upon their Ignorance, eſpeci<g ref="char:EOLhyphen"/>ally when it is done before Perſons who have ſo much Reaſon as to conſider that no man is born an Artiſt, and that he muſt in all other things as well as Fencing, either ſuffer Inſtruction or remain in Ignorance; beſides if ſuch Perſons knew that it is impoſſible for them with ſuch private Practice, ever to make any conſiderable advance in this Art, I am fully perſwaded they would apply themſelves more to publick: For Fencing is an Art which depends mainly upon Practice, and who ever thinks to acquire it any other way, is I aſſure him mightily miſtaken, and the more a man practiſe and with the more different humors, ſo much the better for him, ſo that let the greateſt Artiſt in the World forbear but the Practice of it for a twelve month, although I confeſs he can never loſs the Judgement he hath acquired, yet he will certainly when he cometh to practice again, find his Body and Limbs ſtiffer, and his Hand and motions both for Defence and Offence,
+<pb n="54" facs="tcp:34923:30"/>neither ſo exact, nor by far ſo ſwift, as if he had been in a continual Practice, I mean at leaſt once a Week or Fortnight, therefore I would gladly adviſe ſuch perſons both for their own advantage and publick encouragement of the Art, to lay aſide ſuch ſhallow and and nice Fancys, and with a firm reſolution ap<g ref="char:EOLhyphen"/>ply themſelves to the more ſollid Practice of it, and let them take my word for it, they will at laſt find the benefit of this my Advice, and confeſs it is not ſo much to be contemned, as perhaps they at preſent in the opinion they are of, imagin.</p>
+                     </sp>
+                  </div>
+                  <div n="7" type="particular_rule">
+                     <head>RULE 7.</head>
+                     <sp>
+                        <p>
+                           <hi>Seventhly,</hi> Although Binding be certainly the only trueſt play a man can make uſe of, yet I would not have you quit too ſoon your point play for it; becauſe it is point play which muſt make your Body and Wreſt, and give you va<g ref="char:EOLhyphen"/>riety of play, and therefore your publick Aſ<g ref="char:EOLhyphen"/>ſaults being at firſt as much to improve your Art, as offend your Adverſary, I adviſe you for the firſt three or four months of it to play more upon the variety of Leſſons, then upon binding, and uſe it but now and then until you find your ſelf conſiderably Maſter of the other Leſſons, and when you can play any of them with eaſe and at Pleaſure, then take your ſelf to Binding, and the Contercaveating parrade, and make your ſelf alſo Maſter of them; which I
+<pb n="55" facs="tcp:34923:30"/>aſſure you will be no ſmall task, for in perform<g ref="char:EOLhyphen"/>ing of them there is not only required Judge<g ref="char:EOLhyphen"/>ment and a conſiderable Force and Strength, but alſo the moſt extraordinary ſwiftneſs, and greateſt agility immaginable.</p>
+                     </sp>
+                  </div>
+                  <div n="8" type="particular_rule">
+                     <head>RULE 8.</head>
+                     <sp>
+                        <p>
+                           <hi>Eightly,</hi> When ever you meet with a perſon whoſe play runneth moſtly upon Binding, do not (unleſs you think your Binding will maſter his) ſo much endeavour to croſs him by Coun<g ref="char:EOLhyphen"/>ter-binding, as by ſlipping him, and keeping a diſengaged point: For this is a contrary which will very oft take againſt ſuch kind of play, although I confeſs it can never be ſo ſe<g ref="char:EOLhyphen"/>cure as Counter binding, and therefore all con<g ref="char:EOLhyphen"/>traries muſt in all Encounters (but particular<g ref="char:EOLhyphen"/>ly at Sharps) give place to it, but it is School-play I am now diſcourſing of, and therefore point or diſengaged play in ſuch a caſe may with the more confidence be ventured upon.</p>
+                     </sp>
+                  </div>
+                  <div n="9" type="particular_rule">
+                     <head>RULE 9.</head>
+                     <sp>
+                        <p>
+                           <hi>Ninthly,</hi> As againſt Binding in School-play, you may ſafely keep a diſengaged point, and make uſe of point play: So againſt all point play whatſoever, there are no ſuch Contraries in the World as Binding and the Contre-cavea<g ref="char:EOLhyphen"/>ting-Parrade: for (if ſwiftly and dexterouſly performed) they not only engage the moſt quick and moving point imaginable, but alſo croſs and put a ſtop to the execution of any Leſſon what<g ref="char:EOLhyphen"/>ſoever,
+<pb n="56" facs="tcp:34923:31"/>ſo that point or diſengag'd play may as I have ſaid prove a contrary to Binding and, the Contercaveating Parrad, but Binding and the Contercaveating Parrad are the only ſure and infallible contrarys, to all point play that either is, or ever will be invented.</p>
+                     </sp>
+                  </div>
+                  <div n="10" type="particular_rule">
+                     <head>RULE 10.</head>
+                     <sp>
+                        <p>
+                           <hi>Tenthly,</hi> I ſhall cloſe theſe Rules for the ſe<g ref="char:EOLhyphen"/>cond Circumſtance, with two obſervations, which if well conſidered and Practiſed with Judgement, will be found moſt uſeful; And the <hi>Firſt</hi> is, That when ever you find a man de<g ref="char:EOLhyphen"/>ſignedly give an open, or voluntarly diſcover any part of his Body to you to thruſt at, with<g ref="char:EOLhyphen"/>out being forced to it, you ſhould immediatly conclude it is done out of a deſign to trappan &amp; catch you upon the Reſpoſt, if you ſhould of<g ref="char:EOLhyphen"/>fer a home plain Thruſt at that part which he diſcovers to you; therefore when ſuch an Op<g ref="char:EOLhyphen"/>portunity is given you, you muſt not, unleſs you have a very ſwift hand offer to take it, but are either to force an open in another place, or otherwiſe to attaque it with a Feint. The 2d: is, that a man ſhould alwiſe conform both his Purſute and Parrade as much as poſſible, to the Art and Adroitneſs of his Adverſary. For Ex<g ref="char:EOLhyphen"/>ample, if you are to Aſſault againſt one who is extreamly Adroit and Skillful, and who hath a very ſwift hand, you would not only take head how you Purſue him, but alſo
+<pb n="57" facs="tcp:34923:31"/>make uſe of your Parrade with all the quickneſs imaginable, becauſe you are to expect that he will not ſlip the leaſt opportunity you give him, of either taking time or anſwering you from the Reſpoſt: Again if you are to play a<g ref="char:EOLhyphen"/>gainſt one who is but an ordinary proficient, you may both play a little more looſe with him as to your offence, and make your Par<g ref="char:EOLhyphen"/>rade ſlower when he Purſues you.</p>
+                        <p>And this is what we call the <hi>Executive part of the Judgement of the Sword,</hi> which no Maſter whatſo<g ref="char:EOLhyphen"/>ever can give to any man, for it muſt flow from his own Underſtanding, Fancy, &amp; Judgement, being as I ſaid the gift of Nature, and although it may be forced a little upon ſome people by good Directions and a continual Practiſe, yet it is at beſt but like to the working of Timber croſs the Grain, or Sailing againſt a Stream, all forſt work, and it is becauſe of this natur<g ref="char:EOLhyphen"/>all inclination and diſpoſition in ſome perſons, that we ſee them make in a ſhort time ſuch great advances in any Art, and others ſo little, or almoſt none at all: And ſo much for this Circumſtance.</p>
+                     </sp>
+                  </div>
+               </div>
+            </div>
+            <div n="3" type="rules">
+               <head>
+                  <hi>R<g ref="char:V">Ʋ</g>LES to be obſerved in the third</hi> Circumſtance.</head>
+               <sp>
+                  <p>It hath been the misfortune of this Art, be<g ref="char:EOLhyphen"/>cauſe of the imperfection of ſome, and bad con<g ref="char:EOLhyphen"/>duct of others who pretended to it, to be trea<g ref="char:EOLhyphen"/>ted <hi>En Redicule</hi> and undervalued, by reaſon of Ignorants having ſometimes the better of them,
+<pb n="58" facs="tcp:34923:32"/>in Aſſault with Blunts, or Encounter with Sharps; therefore it will not be amiſs, before <hi>I</hi> proceed to the Ruls relating to this Circumſtance, to explain to you a little the Cauſe and Reaſon of its ſo frequently falling out, and the rather becauſe it will exactly anſwer the ſecond queſti<g ref="char:EOLhyphen"/>on you propoſed to me in the beginning of our Diſcourſe, which was, why my old Scholars be<g ref="char:EOLhyphen"/>haved ſo well againſt Ignorants and Ramblers and my young, particularly your ſelf had ſo little ſucceſs in any thing you attemped againſt them, in doing which I ſhall be as plain and impartial as poſſible.</p>
+               </sp>
+               <sp>
+                  <speaker>Sch.</speaker>
+                  <p>
+                     <hi>Sir, you have now hitt the Nail on the head, for this I confeſs is my great Scruple, which I cannot reſolve my ſelf of nor give a reaſon for it, and I was affraid that having delayed it ſo long, you ſhould have at laſt either altogether forgot, or neglected it, but ſeing the threed of your Diſcourſe now leads you to this point, I am hopful you will enlarge a little upon it, not on<g ref="char:EOLhyphen"/>ly for my ſatisfaction, which I muſt confeſs I long for extreamly, but alſo for the conviction of many who for no other Reaſon, but becauſe they could never have this Objection fully cleared, do forebear the practice of this Art, and altogether refrain from the Schools, con<g ref="char:EOLhyphen"/>cluding that if they did otherwiſe, it would be but ſo much time loſt, and money thrown away to no purpoſe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Sir, It hath been all along my deſign to ſpeak plainly, &amp; if I be not deceived, with ſome ſhew of Reaſon, and if I fail in it now, I aſſure you it ſhall be contrar both to my deſign and inclination; But, <hi>à propos.</hi>
+                  </p>
+                  <pb n="59" facs="tcp:34923:32"/>
+                  <p>The Encountering or Engaging with a for<g ref="char:EOLhyphen"/>ward and unexpert perſon at ſharps being the point which will reſolve all the reſt, I ſhall re<g ref="char:EOLhyphen"/>ſtrict my ſelf to diſcourſe only of it, and if I can make it appear, that an ignorant can pre<g ref="char:EOLhyphen"/>tend to no advantage againſt a true Artiſt at ſharps, but rather upon the contrary, have a viſible diſadvantage, then I think I may con<g ref="char:EOLhyphen"/>clude, the point gained, notwithſtanding of the bad ſucceſs many young Scholars, or pretend<g ref="char:EOLhyphen"/>ers to Art, may have when engadged againſt ſuch perſons, and this I ſhall endeavour to make good by anſwering the following objection.</p>
+               </sp>
+               <div type="objection">
+                  <head>
+                     <hi>The GRAND OBJECTION Againſt</hi> FENCING.</head>
+                  <sp>
+                     <p>FENCING, ſay ſome, can certainly be of no Uſe, but rather a Prejudice to thoſe who are Taught it, becauſe we ſee that the moſt part of Fencers when engaged with Sharps, are rather timerous than brisk and hardy, and inſtead of purſuing their Adverſary or keeping their ground (which any brave Man will do) they both generally take themſelves to their defence, and alſo retire and looſe their ground; whereas a vigorous Naturaliſt ventures always forewards, and with his full Blows and irregu<g ref="char:EOLhyphen"/>lar Thruſting, puts my poor Gentleman ſo to it that he is glad to get rid of him at any rate; and in appearance, were it not more for ſhame
+<pb n="60" facs="tcp:34923:33"/>than an inclination occaſioned by Art, would ſhow him that one pair of Heels is worth two pair of Hands.</p>
+                     <p>Here is a ſwinging Objection, which taketh very much with many unexpert and inconſi<g ref="char:EOLhyphen"/>derate People, but with how little reaſon will appear by the following Anſwers? which I am hopeful ſhall have ſo much force as to cauſe ſuch perſons alter their opinions, at leaſt to ac<g ref="char:EOLhyphen"/>knowledge that Art is not altogether ſo deſpi<g ref="char:EOLhyphen"/>cable and uſeleſs a thing as they would make the World believe.</p>
+                     <p>As to the firſt Branch of the Objection, which is Artiſts being rather timerous than har<g ref="char:EOLhyphen"/>dy, I ſay it is a miſtake proceeding from the want of Art, and a falſe Notion or Conception which ſuch Perſons have of true Valour; For if I miſtake it not, true Courage doth not con<g ref="char:EOLhyphen"/>ſiſt in a Fool Hardineſs, which prompts a Man to perform all his Actions inconſiderately and at random, or in an inſenſibility of danger to which he may be expoſed: But in a compoſed<g ref="char:EOLhyphen"/>neſs of mind and firmneſs of reſolution to ven<g ref="char:EOLhyphen"/>ture his Perſon and oppoſe his Enemy, notwith<g ref="char:EOLhyphen"/>ſtanding of his having a true ſenſe of the hazard to which he is expoſed: For that Boldneſs which is not regulate by Reaſon, and perfor<g ref="char:EOLhyphen"/>med with Judgement, ſhould be rather termed Brutality than Valour, and more properly be<g ref="char:EOLhyphen"/>longs to Beaſts than Men, of which nothing can
+<pb n="61" facs="tcp:34923:33"/>give a more evident proof than Cock-fighting, where Boldneſs occaſioned by the motion of the Spirits, is diſcovered to the higheſt degree, but neither Reaſon nor Judgement do accom<g ref="char:EOLhyphen"/>pany it, and therefore all reaſonable Men me<g ref="char:EOLhyphen"/>thinks ſhould diſown having any ſhare in it.</p>
+                     <p>So when Artiſts are taxed with an averſion to Quarrelling (or Cowardice as they call it) or with a remiſneſs and coldneſs in their Purſute when they do quarrel, I would have ſuch Per<g ref="char:EOLhyphen"/>ſons know that it is not for lake of Courage that they uſe that method, but becauſe they are by their Reaſon and Art, made ſenſible of the hazard they are expoſed to upon both hands, firſt by acting contrary to the Laws of the Kingdom, and then in venturing their Perſons; therefore they are more intent upon their own defence, than the ruine and deſtru<g ref="char:EOLhyphen"/>ction of their Adverſary, whom they deſign alſo (if they muſt engage) to ſave by their Art as well as themſelves, unleſs there be an une<g ref="char:EOLhyphen"/>vitable neceſſity forcing them to the contrary. And no other Reaſon but this is the cauſe of Artiſts being ordinarly more cautious, and not ſo foreward and quarrelſome as generally ma<g ref="char:EOLhyphen"/>ny ignorant and inconſiderate Perſons are, which, (than to occaſion a reproach and cry<g ref="char:EOLhyphen"/>ing out againſt them for it) ſhould I think u<g ref="char:EOLhyphen"/>pon the contrary far rather tend to their Com<g ref="char:EOLhyphen"/>mendation, and a general approving of their
+<pb n="62" facs="tcp:34923:34"/>judicious and conſiderat conduct and behavi<g ref="char:EOLhyphen"/>our: For a Man being a rational Creature, ſhould certainly do nothing but what he hath very good grounds for, beſides that it is far more eaſie for a Man to engage himſelf in a Quarrel, than with his Honour and a general Applauſe to acquit and rid himſelf of it, and therefore I think it can be no Reflection upon any Man, not only to be averſe from quarrel<g ref="char:EOLhyphen"/>ling, but alſo to conſider well upon what grounds he make one, leaſt (if he have not a very juſt cauſe) he make not only Law, but perhaps an intimate Commerad his irrecon<g ref="char:EOLhyphen"/>cileable Enemies.</p>
+                     <p>However, I confeſs this warrineſs and cir<g ref="char:EOLhyphen"/>cumſpectneſs which is enjoined to Artiſts in caſe of an engagement, is by many young Sword Men (both to their own prejudice and the diſadvantage of Art) ſtretched too great a length: And this leads me to the ſecond Branch of the Objection, which is, That vigourous Naturaliſts with their forwardneſs, full Blows, and irregular Thruſts do oftimes ſo confound Artiſts, that they are glad to get rid of them at any rate.</p>
+                     <p>I ſay therefore in Anſwer to it, That it is only againſt young Sword-men that ſuch per<g ref="char:EOLhyphen"/>ſons will have this advantage: For although the Rules of Art require a Man to play calmly and conſiderately; yet they nowayes order
+<pb n="63" facs="tcp:34923:34"/>him to ſuffer the forward and irregular Mo<g ref="char:EOLhyphen"/>tions of any Adverſary whatſoever, without oppoſing them, but they are only young Scho<g ref="char:EOLhyphen"/>lars that know no better, who are guilty of this Failure: For beleive me, if thoſe per<g ref="char:EOLhyphen"/>ſons, be who they will, chance to engage againſt one who is really a Sword-man, (I ſay really a Sword-man, becauſe there are but too many who pretend to the Name that deſerve it not) he will, I ſay find himſelf as the Proverb goes, <hi>In the wrong Cloſs,</hi> and that the Artiſt will be ſo far from yielding his ground to him, or allowing him the whole Purſute, that he will pay him home in his own Coin, and perhaps with double, if not tri<g ref="char:EOLhyphen"/>ple intereſt: So that he will be at laſt forc'd to acknowledge that Art hath in conſcience but too great odds of Nature, to be put in the ſame ballance with it.</p>
+                     <p>And as for the Third Branch or Particular, That if it were not more for ſhame, than an inclination occaſioned by Art, Artiſts would for the moſt part when they are engaged, rather retire with their back than their face towards their Adverſary, that is in ſhort, that were it not for ſhame, they would turn tail and run, is ſo frivolous and mean an imputation and aſpertion, and ſo much againſt ſenſe and reaſon, that I think it not worth my while to Anſwer it.</p>
+                     <p>However to conclude this point, I ſay upon
+<pb n="64" facs="tcp:34923:35"/>the whole, that it is ſomewhat ſtrange to hear perſons of any wit or underſtanding diſcourſe at this rate: For can it be imagined, that a Man who is naturely brave ſhould imme<g ref="char:EOLhyphen"/>diatly become a Coward and Cullion, and that only for having acquired a little Art, or muſt Ignorance inſpire all Men with Courage? and Art bereave them of it, by a certain kind of tranſmigration? if I may ſo ſay, infuſing a mean and timerous Soul, into a Body former<g ref="char:EOLhyphen"/>ly poſſeſſed by a brave One; No, No, For this were to make too raſh a concluſion, and to encroach a little too much upon the juſt di<g ref="char:EOLhyphen"/>ctates of Reaſon, eſpecially ſeing it is moſt e<g ref="char:EOLhyphen"/>vident, that every Artiſt hath (as I proved in the <hi>Sword-mans Vade-mecum</hi>) four undeniable ad<g ref="char:EOLhyphen"/>vantages of any Naturaliſt or unexpert Ram<g ref="char:EOLhyphen"/>bler whatſoever, which are, Parrying of a Thruſt, Planting or Adjuſting of a Thruſt, &amp; Judgement and ſwiftneſs of hand to perform &amp; deliver it.</p>
+                     <p>Now a true Artiſt having thoſe four at com<g ref="char:EOLhyphen"/>mand, wherein can any foreward unexperien<g ref="char:EOLhyphen"/>ced Perſon pretend to have the advantage? I know it will be ſaid in his being able to Con<g ref="char:EOLhyphen"/>tretemps the Artiſt, or give him Thruſt for Thruſt; but as for the firſt of theſe, I have gi<g ref="char:EOLhyphen"/>ven in my <hi>Swordmans Vade mecum,</hi> a clear &amp; evi<g ref="char:EOLhyphen"/>dent demonſtration that it is impoſſible for any Ignorant, unleſs it be by meer chance, to do it.
+<pb n="65" facs="tcp:34923:35"/>And for the ſecond, grant he ſhould venture u<g ref="char:EOLhyphen"/>pon it (but I am convinced he can be no great Ar<g ref="char:EOLhyphen"/>tiſt who giveth him that opportunity) yet I ſay he hath no advantage by it, becauſe he receiveth al<g ref="char:EOLhyphen"/>ſo a Thruſt himſelf, which if it be with Sharps, becauſe of the Artiſts knowing to adjuſt, ſhould in reaſon be expected to be directed and plan<g ref="char:EOLhyphen"/>ted in a more dangerous and mortal part of the Body, than the Ignorants which is given at random.</p>
+                     <p>So that the very worſt the greateſt Enemies of Fencing can ſay of Art, (allowing a Natu<g ref="char:EOLhyphen"/>raliſt all the pretended advantages he is cap<g ref="char:EOLhyphen"/>able of againſt it, which can never ſucceed or take effect againſt a true Artiſt) is, that at beſt a forward ignorant can be but in equal terms with an ordinary Artiſt, whereas upon the con<g ref="char:EOLhyphen"/>trary true Artiſts who are reſolved to expoſe themſelves a little, are not only I may ſay in<g ref="char:EOLhyphen"/>fallibly certain of their Adverſaries life, if he be no Artiſt, for their own, which it is impoſ<g ref="char:EOLhyphen"/>ſible any ignorant can be; but alſo, it is twenty to one but they ſave themſelves, and they have likewiſe ſo much Divertiſement by their com<g ref="char:EOLhyphen"/>mon School practice, that the pleaſure very far counterballances the toil and trouble they have been at to acquire it; And ſeeing that Art can never be ſaid with any ground of Reaſon to be prejudicial to any man, but upon the con<g ref="char:EOLhyphen"/>trary ofttimes beneficial, and alſo, that it is ac<g ref="char:EOLhyphen"/>knowledged by all to be a wholeſome Exerciſe
+<pb n="66" facs="tcp:34923:36"/>for the Body, and ſo eaſily carried about one; I think this one Reaſon although there were no other ſhould be an irreſiſtable and uncontroul<g ref="char:EOLhyphen"/>able motive to make all perſons of what de<g ref="char:EOLhyphen"/>gree or quality ſo ever, to have an eſteem for, and to follow it; And thus Sir I think I have ſufficiently anſwered the Queſtion ſo much troubled you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>Sir your Arguments I muſt confeſs are moſt convincing, and I am now ſo far from repining, or grudging at the pains I have already been at to ac<g ref="char:EOLhyphen"/>quire the little I have of this Art, that I am reſolved ſo long as I am able either to handle a Fluret or walk to a School, not only to follow it my ſelf, but alſo to encouradge and perſwad all I am concerned in, to make themſelves in ſome meaſure Maſters of it.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Your reſolution Sir is moſt generous, and I am alſo glad my Diſcourſe hath produc<g ref="char:EOLhyphen"/>ed ſo good effects, but as I have in general ſhew<g ref="char:EOLhyphen"/>ed you that Art is uſeful againſt all perſons, ſo let me now ſhow you how that Art is to be made uſe of more particularly in the third Circumſtance, or againſt thoſe forward &amp; unex<g ref="char:EOLhyphen"/>perienced perſons we have been diſcourſing of.</p>
+                  </sp>
+               </div>
+               <div type="particular_rules">
+                  <head>
+                     <hi>Particular R<g ref="char:V">Ʋ</g>LES for the third</hi> Circumſtance.</head>
+                  <sp>
+                     <p>It cannot be denyed but the irregular Thruſts of a foreward Ignorant are moſt difficult to Parrie; And one of the main reaſons why young Scholars are oftimes baffled by ſuch per<g ref="char:EOLhyphen"/>ſons,
+<pb n="67" facs="tcp:34923:36"/>is becauſe they aim at a more perfite de<g ref="char:EOLhyphen"/>fence then the Art they have acquired doth al<g ref="char:EOLhyphen"/>low them, for a quick, firme, and ſure Par<g ref="char:EOLhyphen"/>rade, is not the effect of three or four months teaching, but the Fruit and Product of ſeveral years Practice: And it is far more eaſy to hit one part of a thouſand with a Sword, then it is to defend with a Sword or any thing elſe, a thouſand of thoſe ſame parts which are expoſed in every mans body to be hit if he hath not a very dexterous and firm Parrade, for to wound there is only required to hit any one part but to defend, a man muſt put his Ad<g ref="char:EOLhyphen"/>verſaries Sword not only by one but many, o<g ref="char:EOLhyphen"/>ther ways he is hit, &amp; conſequently his Parrade falſe and imperfect, No wonder then that Thruſting or offending be natural almoſt to every man, but a ſure and perfite Parrade poſſeſſed by very few:</p>
+                  </sp>
+                  <div n="4" type="rule">
+                     <head>RULE 1.</head>
+                     <sp>
+                        <p>Therefore, Young Sholars who are not come the length of a perfite defence, ſhould when they engadge with foreward Ig<g ref="char:EOLhyphen"/>norants, be as foreward and vigorous in their Purſut as they, for they will find but few of them who will be able to defend one Thruſt of ſix, if they be ſmartly delivered, and their Purſutes being as vigorous as the Ignorants, it will be in all probability (as I have already ſhewed) as dangerous, ſo that young Scholars will ſtill have this advantage over them by
+<pb n="68" facs="tcp:34923:37"/>their little Art, that they can defend ſome Truſts, whereas the other can ſcarſly defend any at all. And therefore I again advice all young Scholars, or others who are not well confirmed in the defencive part, not to ſtand dallying with any Ignorant, but to attaque him immediately with a foreward and vigorous Purſute, but alwiſe without Rambling, and accompanyd with Reaſon and Judgement, and alſo uſing the left hand for a help to their defence, and they will find it to have a great deal better ſucceſs, than the taking themſelves wholly to the defence &amp; playing from the Re<g ref="char:EOLhyphen"/>ſpoſt, which they are not fully Maſters of, and which becauſe of their imperfection in it, not only expoſes them more to the fury of their Adverſary, but alſo is the ground of peoples reflecting upon them as being timerous, and not ſo hardy and bold as they ought: Obſerve therefore this Rule well, and it will not only be a conſiderable means to gain you the victo<g ref="char:EOLhyphen"/>ry over all ſuch perſons, but alſo for the future prevent giving people the occaſion to charge and reproach either Art or Artiſts with the like Imperfections and Faillures.</p>
+                     </sp>
+                  </div>
+                  <div n="2" type="rule">
+                     <head>RULE 2.</head>
+                     <sp>
+                        <p>But for perſons who by great experience and ſeveral years practice, find themſelves conſi<g ref="char:EOLhyphen"/>derably Maſters of the Parrade, I am ſo far from adviſing them to obſerve the preceeding
+<pb n="69" facs="tcp:34923:37"/>Rule, that I think they may ſafely make uſe of any other method they ſhall judge moſt propper and convenient, although my ſecond general Rule (which was to make alwayes a brisk half purſute) can in my opinion never prove amiſs to them, eſpecially if accompanied with the help of the left hand to aſſiſt them in their defence, and make their Parrade the more certain: But leaſt I ſhould be condemned for being to ſhort in a Circumſtance which is of ſo great import to Artiſts, I ſhall lay down one Rule more to be obſerved againſt that hu<g ref="char:EOLhyphen"/>mour of Ignorants, which in my opinion is the moſt difficult of all others to be oppoſed, and which if rightly managed, will be alſo very uſeful at Sharps.</p>
+                     </sp>
+                  </div>
+                  <div type="subsection">
+                     <head>The moſt difficult Humour to oppoſe in any IGNORANT.</head>
+                     <sp>
+                        <p>Is when out of a kind of Diſpair, without ha<g ref="char:EOLhyphen"/>ving any regard for his life, he ruſheth upon his Adverſary diſcharging Thruſt after Thruſt in a moſt irregular way, neither giving his Adverſary opportunity to reſpoſt him, becauſe of his continued redoubling, nor ever offering to defend himſelf, but ſtill advancing and thruſting ſo irregularly and out of the line, that it requires a great deal of skill in his Ad<g ref="char:EOLhyphen"/>verſary ſo to oppoſe him, as neither to receive a wound for nothing, nor an exchanged Thruſt
+<pb n="70" facs="tcp:34923:38"/>if he ſhould venture at the delivering of one, Now although it be true that a Man muſt be ſtrangely wild and beyond meaſure deſperat, before he can be imagined capable of ſo furi<g ref="char:EOLhyphen"/>ous and deſperat a purſute; yet certainly ſuch people there are (although not many) who are capable of this extravagance, I ſhould have ra<g ref="char:EOLhyphen"/>ther ſaid madneſs, therefore to oppoſe it; obſerve,</p>
+                     </sp>
+                  </div>
+                  <div n="3" type="rule">
+                     <head>RULE 3.</head>
+                     <sp>
+                        <p>That if you encounter with any ſuch perſons it muſt be either in a large ground, where you are at more liberty, or in a narrow bounds where you are extremely ſtraitned, and which I confeſs is the hardeſt Circumſtance of all: Now if it be a in large Field or Street, you muſt re<g ref="char:EOLhyphen"/>ſolve to break his meaſure a little, leaſt he ſhould incloſe upon you (for you are always to prevent that as much as poſſible when you have bounds to do it) until his firſt fury be o<g ref="char:EOLhyphen"/>ver, which will be after the diſcharge of half a ſcore, or a dozen of Thruſts at moſt, and then making uſe of your left hand to prevent an exchanged Thruſt, triſt your Purſute ſo as that you diſcharge your Thruſt when he is drawing back of his Arm to redouble another upon you; And this is what we call the true timing of a Thruſt, which when it is ſeaſona<g ref="char:EOLhyphen"/>bly performed will make the ſimpleſt Leſſon of the Sword not only ſucceed againſt any Igno<g ref="char:EOLhyphen"/>rant, but alſo take effect againſt the moſt part
+<pb n="71" facs="tcp:34923:38"/>of underſtanding Sword-men, ſeing there is certainly no contrary can be uſed againſt it, therefore pray mark it: Now if you take this time exactly and deliver your Thruſt ſmart<g ref="char:EOLhyphen"/>ly having your left hand ready for your de<g ref="char:EOLhyphen"/>fence, you will not fail to catch him and ſave your ſelf, eſpecially if you make uſe of your Parrade deliberately: For although ſuch per<g ref="char:EOLhyphen"/>ſons Thruſts be very irregular, yet they are al<g ref="char:EOLhyphen"/>ſo very ſlow, and moſt commonly given all within the Sword, for not one Ignorant of twenty can either diſengage or thruſt above the Sword, but they thruſt all generally upon the inſide and low at the belly or thighs, there<g ref="char:EOLhyphen"/>fore if you be not too haſty in your Parrade, and alſo obſerve the preceeding Directions, you will find it not ſo difficult a matter to oppoſe and maſter him as is commonly believed.</p>
+                        <p>But if it be in a narrow bounds or cloſs room that you are engaged againſt ſuch a per<g ref="char:EOLhyphen"/>ſon, ſo that there is no poſſibility to break his meaſure, then you muſt inſtantly after drawing your Sword incloſe with a half paſs upon him, uſing your left hand for a defence againſt an exchanged Thruſt in the time you are perfor<g ref="char:EOLhyphen"/>ming it: So that if he do not offer to go to the Parrade, you give him certainly a Thruſt, and alſo defend your ſelf from an exchanged one by your left hand; and if he do go to the Parrade, then you have the fairer opportunity
+<pb n="72" facs="tcp:34923:39"/>to command his ſword, in both which caſes you will ſtill have the advantage; But this be<g ref="char:EOLhyphen"/>ing certainly the moſt difficult circumſtance a Sword man can poſſibly be tryſted with, it muſt therefore as I ſaid be very quickly and ſmartly gone about, that his irregularity and forwardneſs, may be put a ſtop too, and cruſh<g ref="char:EOLhyphen"/>ed in its very bud and infancy, and this much for this circumſtance; For to run thorow all the different methods of purſute which may be made uſe of by every Ignorant, and to ſet down the particular contraries moſt propper for each would have no end, <hi>(for ſo many men as many different humours;)</hi> And therefore it muſt be left to every mans judgement, to make choice of what Contraries he ſhall think moſt propper for his preſent neceſſity; but what I have given you, is the foundation of all, and ground by which you muſt walk. Therefore pray conſider it well, for there is here I aſſure you a great dale contained in a very few lines.</p>
+                     </sp>
+                  </div>
+               </div>
+            </div>
+            <div n="4" type="rules">
+               <head>RULES <hi>to be Obſerved in the fourth</hi> Circumſtance.</head>
+               <sp>
+                  <p>Now for the <hi>fourth</hi> and <hi>laſt</hi> Circumſtance, which is, when a man is to engage with ſharps for his Life, or Honour or to play with Blunts for a prize, &amp; when a man doth this he ſhould be certainly almoſt as circumſpect and warry, as if he were to engage for his life; therefore
+<pb n="73" facs="tcp:34923:39"/>both theſe caſes falling under this Circumſtance, I am convinced there are ſuch infallible Directi<g ref="char:EOLhyphen"/>ons ſet down for them in my <hi>Sword Mans Vade-mecum,</hi> that I cannot do better then advice you to a peruſal of it, ſeeing all I can ſay would prove but a Repetition of what is moſt diſtinct<g ref="char:EOLhyphen"/>ly and fully ſet down in that piece.</p>
+                  <p>But I muſt recommend to you one thing which I believe I have omitted there, which is that you would when the weather is good accuſtom your ſelf to Aſſault ſometimes in the Fields, either in uneven ground, or amongſt ſtones, or where there is any thing of raggedneſs, ſlipperineſs, or uneveneſs; and this will not only teach you to move your Limbs warrily, but alſo give you the true judgement of what diſtance you ſhould play at in the Field, which I aſſure you is more advantagious then many do imagine, for let a man accuſtom himſelf to play only in a ſchool, and he will find when he cometh to play in the Fields, that he will quite miſtake his diſtance, and think he is within reach of his Adverſary, when perhaps he is not within his meaſure, by five or ſix inches at leaſt, and ſo all his thruſts will be ſpent in vain; But ac<g ref="char:EOLhyphen"/>cuſtoming himſelf to play now and then a<g ref="char:EOLhyphen"/>broad, the diſtance and variety of grounds will become ſo familiar to him, that he will not only order his feet with as great eaſe, but alſo direct his Thruſts with as great certainty and ſucceſs
+<pb n="74" facs="tcp:34923:40"/>as if he were in a Room or ordinary Fencing-School.</p>
+                  <p>So all I have to add upon this matter, is that you would make it your buſineſs when you come to Aſſault, to put theſe Rules I have given you in practice, according to the ſeveral Circumſtances you ſhall be triſted with; and if you do not find them anſwer your expectation (providing the fault<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly not at your own door) then never give truſt to any thing <hi>I</hi> ſhall here<g ref="char:EOLhyphen"/>after ſay upon this ſubject: ſo Sir if <hi>I</hi> be not de<g ref="char:EOLhyphen"/>ceived I have both performed what you expect<g ref="char:EOLhyphen"/>ed, &amp; what I at firſt promiſed, which was to lay you down infallible Rules for Aſſaulting, the Obſervation of which ſhould make you con<g ref="char:EOLhyphen"/>feſs, that the Expenſes and time you have ſpent upon this Exerciſe, is not altogether loſt, and ſo much in vain, and to no purpoſe, as you did imagine.</p>
+               </sp>
+               <sp>
+                  <speaker>Sch.</speaker>
+                  <p>
+                     <hi>Sir, I do confeſs you have beyond expectation ſatisfied my courioſity, and it ſhall be very much con<g ref="char:EOLhyphen"/>trarie to my inclination, if in my practice I make not ſome conſiderable improvement by what you have taught me; But before we part</hi> I <hi>muſt beg leave, to put you to the trouble of reſolving me one Queſtion more, which becauſe relating to this ſubject,</hi> I <hi>would gladly have cleared.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Although Sir it be now drawing near to the hour I appointed to meet ſome Gentle<g ref="char:EOLhyphen"/>men in the Tavern, who are to enter my ſcho<g ref="char:EOLhyphen"/>lars by the great, yet ſeeing you ſay you have
+<pb n="75" facs="tcp:34923:40"/>but one Queſtion more to ask me, I cannot think it will take up ſo very much time, but that I may (rather then diſoblige you) ven<g ref="char:EOLhyphen"/>ture to delay my meeting, at leaſt ſo long, un<g ref="char:EOLhyphen"/>till I give you ſome ſatisfaction in it; And therefore Sir, pray what is it?</p>
+               </sp>
+               <sp>
+                  <speaker>Sch.</speaker>
+                  <p>
+                     <hi>This Sir I confeſs is the hight of complaiſance in you, but a great dale of rudeneſs in me, thus to in<g ref="char:EOLhyphen"/>terrupt your appointment; however, leaſt I may not have ſuch a convenient opportunity to diſcourſe with you another time, I am ſatisfied to eneroach a little at preſent upon the Rules of Civility, that my curioſitie in this point may be ſatisfied.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="question_and_answer">
+               <head>The Q<g ref="char:V">Ʋ</g>ESTION.</head>
+               <sp>
+                  <p>
+                     <hi>You know Sir, in your Laws for Fencing Schools, you ſaid it would not be amiſs (for the greater encou<g ref="char:EOLhyphen"/>ragement of Art, and improvement of Scholars) that once a year there were a Prize to be played for publick<g ref="char:EOLhyphen"/>ly;</hi> I <hi>deſire therefore to know what methods you would take to have ſuch a thing performed decently, and without debate or confuſion?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If this Sir be all, it is very eaſily an<g ref="char:EOLhyphen"/>ſwered, for <hi>Firſt,</hi> I would have half a dozen, or half a ſcore Gentlemen, (it is true, there are ſome in this Kingdom, who have been ſo generous as to do already what I am going to propoſe; but what I am to ſet down, although it be fairly begun in this Country, yet it will both prove uſeful to them, and as a Directory for the Youth of other Kingdoms, to know what
+<pb n="76" facs="tcp:34923:41"/>methods ſhould be taken, when they ſhall de<g ref="char:EOLhyphen"/>ſign any ſuch thing:) Therefore abſtracting from what is already done here (for this is a general propoſal I am making,) I ſay I would have half a dozen or half a ſcore Gentlemen who underſtand the Art, to erect themſelves into a Society or Company, (which ſhould be called the Company or Society of Sword-men) and to oblidge themſelves by a Contract to have once a year a general Meeting, upon ſuch a day, in ſuch a place, and at ſuch an hour, and to carrie at that Meeting ſuch a Badge, as ſhall be agreed upon, and ſpecified in the Con<g ref="char:EOLhyphen"/>tract, at the Subſcription of which each ſhould conſigne ſo much as ſhall be agreed upon, which they are to forefault <hi>Toties Quoties</hi> in caſe of failie: As alſo, they ſhould oblidge themſelves to obey what Laws and Acts ſhall be made by the Society at thoſe general Meetings, under the Penalty of being degraded, and having their names with diſgrace expunged out of the Society Roll.</p>
+               </sp>
+               <div n="2" type="point">
+                  <head>2.</head>
+                  <sp>
+                     <p>
+                        <hi>Secondly,</hi> They ſhould choiſe a Treaſurer in whoſe hands the money is to be conſigned, and who is to be accountable for it, and only to diſpoſe of it as he ſhall be ordered by the Society at thoſe general Meeting, or by a Committe which ſhall be appointed by them; As alſo they ſhould appoint one who is to Of<g ref="char:EOLhyphen"/>ficiat
+<pb n="77" facs="tcp:34923:41"/>as Clerk, and record every thing ſha be agreed upon in thoſe Meetings.</p>
+                  </sp>
+               </div>
+               <div n="3" type="point">
+                  <head>3.</head>
+                  <sp>
+                     <p>
+                        <hi>Thirdly</hi> They ſhould impower a Committe of their number to receive ſuch into the Society as they ſhall judge ſufficiently qualified (none being to be admitted but ſuch who have been Scholars) who at their Reception and Subſcrip<g ref="char:EOLhyphen"/>tion of the Contract, are alſo to conſigne ſo much as ſhall be appointed by the Society (which ſhould be done by way of an Act) in the hands of the Treaſurer, as a pledge for their obſerving the yearly Meeting and other Clauſes ſpecified in the Contract, at the de<g ref="char:EOLhyphen"/>livery of which, they ſhould receive their Ticket from the Clerk, bearing the Badge of the Society, and declaring that upon ſuch a day in ſuch a year they were admitted to it, for which they ſhould gratifie him.</p>
+                  </sp>
+               </div>
+               <div n="4" type="point">
+                  <head>4.</head>
+                  <sp>
+                     <p>
+                        <hi>Fourthly,</hi> The day prefixed in the Contract for the general Meeting being come, and all being conveened at the hour and place appoint<g ref="char:EOLhyphen"/>ed, the firſt thing they ſhould do, is to order the Clerk to ask their Votes who ſhall preceed for that year.</p>
+                  </sp>
+               </div>
+               <div n="5" type="point">
+                  <head>5.</head>
+                  <sp>
+                     <p>
+                        <hi>Fifthly,</hi> The Precident being choſen, he ſhall next order the Clerk to call the Rolls or Names of the whole Society, and to mark
+<pb n="78" facs="tcp:34923:42"/>thoſe who are abſent, and all who ſhall be ab<g ref="char:EOLhyphen"/>ſent, or ſhall appear without their Badges, ſhall be declared by the Votes of thoſe preſent, to have forefaulted their Conſignation mony, which was impignorat as a pledge for their keeping that publick Meeting, and which ſhall be ordered to be diſpurſed by the Treaſurer for defraying ſo far as it will go, the charges of a Collation, which ſhould be alwiſe provid<g ref="char:EOLhyphen"/>ed upon that day for thoſe who are conveened, and what ſhall be over and above muſt be e<g ref="char:EOLhyphen"/>qually payed by the Company preſent.</p>
+                  </sp>
+               </div>
+               <div n="6" type="point">
+                  <head>6.</head>
+                  <sp>
+                     <p>
+                        <hi>Sixthly,</hi> The abſents and thoſe who want their Badges being fined, they ſhould next con<g ref="char:EOLhyphen"/>ſider if they will put out any Prize to be play<g ref="char:EOLhyphen"/>ed for that year, if it be carried by the plu<g ref="char:EOLhyphen"/>rality of Votes, that there ſhal; Then they are to reſolve of what Species it ſhall be, as whither a Sword a peice of Plate, or what elſe they ſhall think fitt, as alſo of what value, and upon what day, and in what place it ſhall be begune to be played for, all which ſhould be carefully marked down by the Clerk, and then every one ſhall give in his Proportion for the Prize to the Treaſurer, who under a penalty ſhall be oblidged to have it ready againſt ſuch a day as ſhall be appointed, which ſhould be at leaſt a fortnight before the day reſolved u<g ref="char:EOLhyphen"/>pon for beginning the Solemnity; leaſt the So<g ref="char:EOLhyphen"/>ciety
+<pb n="79" facs="tcp:34923:42"/>ſhould meet with a diſappointment, and be reflected upon for not having the Prize in readineſs, after having made publick intima<g ref="char:EOLhyphen"/>tion of it, and that People have prepared themſelves for it.</p>
+                  </sp>
+               </div>
+               <div n="7" type="point">
+                  <head>7.</head>
+                  <sp>
+                     <p>
+                        <hi>Seventhly,</hi> Theſe points being agreed on, they ſhould in the next place paſs an Act, declaring that all perſons whatſoever (Fencing Maſters exceped) ſhall have liberty to play for it, providing that againſt ſuch a day as ſhall be appointed, they give up their names, and pay in ſo much money, both which ſhould be ſpe<g ref="char:EOLhyphen"/>cified in the Act, as alſo oblidge themſelves to play in the Garb or Habet which ſhall be mentioned in it; And the money collected from ſuch perſons who give up their names and are not of the Society, ſhall be beſtowed upon the Prize the year following to make it of ſo much the more value: And it ſhould al<g ref="char:EOLhyphen"/>ſo be declared that whoever belonging to the Society ſhall decline to play for the ſaids Prize, muſt before he be diſpenced with, give in ſo much money as ſhall be agreed upon, and mentioned in the Act, which ſhall alſo be im<g ref="char:EOLhyphen"/>ployed for the benefite of the next years prize.</p>
+                  </sp>
+               </div>
+               <div n="8" type="point">
+                  <head>8.</head>
+                  <sp>
+                     <p>
+                        <hi>Eighthly,</hi> This Act ſhould be Printed by way of Advertiſement, and Copies of it affixed in the moſt publick places of the City, or Town
+<pb n="80" facs="tcp:34923:43"/>where the prize is to be played for, and o<g ref="char:EOLhyphen"/>ther adjacent Towns, alſo copies of it ſhould be ſent and diſperſed in the Country, that all Perſons who deſign to ſhow their Art, may have timely enough advertiſement to give up their Names, and prepare themſelves for it; And it ſhould as I have ſaid, mention the Li<g ref="char:EOLhyphen"/>berty given to all Perſons, Maſters excepted, to play; with the day and place appointed for taking up their names; As alſo, the ſpecies and value of the Prize, with the place and day when the ſolemnity is to begine; Likewiſe, a diſcription of the Garb all are to play in, hav<g ref="char:EOLhyphen"/>ing at the end of all a Printed copy of the Rules reſolved upon by the Society, to be obſerved in playing, that ſo every man may know if Juſtice be done him or not; And to deſide all Quarrels and Debates which may fall out upon ſuch an occaſion, there ſhould be a Com<g ref="char:EOLhyphen"/>mittee of the moſt underſtanding and judici<g ref="char:EOLhyphen"/>ous Perſons belonging to the Society, the Pre<g ref="char:EOLhyphen"/>ſident being alwayes One, appointed to deſide all ſuch contraverſies relating to the Prize, as ſhall be brought in before them, who ſhall be upon their word of Honour bound to give their Verdict, as impartially, and as near conform to the Printed Rules as poſſible.</p>
+                  </sp>
+               </div>
+               <div n="9" type="point">
+                  <head>9.</head>
+                  <sp>
+                     <p>
+                        <hi>Ninthly,</hi> Before they adjourn their meeting they are to take every thing elſe into their
+<pb n="81" facs="tcp:34923:43"/>conſideration, which they ſhall find neceſſarly fall under their Cogniſance, as whither to have any meeting or not before the day reſolved upon for beginning the Prize, for the day for their yearly meeting, being once appointed by the Original Contract, muſt never be altered, being the Anniverſary of the Society, ſo all things being thus conſerted, &amp; having reſolved what number with the Precident (or Treaſu<g ref="char:EOLhyphen"/>rer in his abſence) ſhall be a Quorum, at thoſe ordinary meetings, they may then adjourn themſelves till the day appointed for the next: All which the Clerk ſhould carefully mark down, and thus much for what they are to do at their yearly Aſſemblies; or general meetings.</p>
+                     <p>But if there be a Prize to be played for, then the day for beginning it being come, and the place where it is to be played for, ready and in order, I would have notwithſtanding of the former Laws for Schools, theſe following Rules to be obſerved, becauſe they more particularly relate to ſuch a ſolemnity as this.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="rules">
+               <head>R<g ref="char:V">Ʋ</g>LES to be Obſerved in playing for a PRIZE.</head>
+               <div n="1" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> 1.</head>
+                  <sp>
+                     <p>
+                        <hi>FIrſt,</hi> That no diſorder may be committed by a Rabble, or otherwiſe, there ſhould be Application made to the Magiſtrates, or com<g ref="char:EOLhyphen"/>manding Officer of the place, for a Guard to keep out all common People; As alſo to pre<g ref="char:EOLhyphen"/>vent
+<pb n="82" facs="tcp:34923:44"/>any other inconveniencies which may fall out upon ſuch an occaſion.</p>
+                  </sp>
+               </div>
+               <div n="2" type="rule">
+                  <head>RULE 2.</head>
+                  <sp>
+                     <p>
+                        <hi>Secondly,</hi> To prevent a Croud, none ſhould be admitted to be Spectators, but thoſe who ſhall have received Tickets, which muſt be de<g ref="char:EOLhyphen"/>livered to the Door keeper as they enter.</p>
+                  </sp>
+               </div>
+               <div n="3" type="rule">
+                  <head>RULE 3.</head>
+                  <sp>
+                     <p>
+                        <hi>Thirdly,</hi> None ſhould be allowed to play, let them be never ſo deſirous, but ſuch as have given up their names at the time appointed in the Act; alſo the number of the perſons who are to play, ſhould if poſible be evens that ſo they may be the more eaſily Paited, &amp; thoſe who beat their Adverſaries alſo marked with the leſs difficulty; Therefore if there be an odd perſon, they ſhould all draw Lotts who is to forebear playing for that year, and upon whomſover the Lot falleth he ſhall have the money he conſigned for the Prize returned to him, and ſhall therefore forebear playing for the Prize that year.</p>
+                  </sp>
+               </div>
+               <div n="4" type="rule">
+                  <head>RULE 4.</head>
+                  <sp>
+                     <p>
+                        <hi>Fourthly,</hi> None ſhould be allowed to play, but in ſuch a Garb as this following; <hi>Viz.</hi> A black Velvet Cap, and white Weaſt-Coat, Drawers, and Stockins, of what kind of Stuff every man ſhall think fit to be at the charges of, whither Holland, Taffity, Sartin, <hi>&amp;c.</hi> But in the time they are playing the lapps of the Weaſt-Coat muſt be alwiſe put within the head-band
+<pb n="83" facs="tcp:34923:44"/>of the Drawers, that ſo it may be the be <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> peceived, where the Thruſts which ſhall b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> given have been planted.</p>
+                  </sp>
+               </div>
+               <div n="5" type="rule">
+                  <head>RULE 5.</head>
+                  <sp>
+                     <p>
+                        <hi>Fifthly,</hi> The Flurets they all play with ſhould be of equal length, and the number three ſhould be alſo the preciſe number of given or received Thruſts, which each player is to play againſt every one of his Antagoniſt Players; Neither ſhould any be allowed to play againſt more than one in a day, becauſe after the firſt Aſſault a Mans Vigour is ſpent, and being to play for a Prize, it were moſt un<g ref="char:EOLhyphen"/>reaſonable to oblidge him to play againſt any other freſh perſon that day.</p>
+                  </sp>
+               </div>
+               <div n="6" type="rule">
+                  <head>RULE 6.</head>
+                  <sp>
+                     <p>
+                        <hi>Sixthly,</hi> No Thruſts ſhould be allowed, nor accounted as faire, which are not given in the Trunk of the Body; that is betwixt the neck and head-band of the Drawers as to the length, and betwixt the two Shoulders as to the breadth.</p>
+                  </sp>
+               </div>
+               <div n="7" type="rule">
+                  <head>RULE 7.</head>
+                  <sp>
+                     <p>
+                        <hi>Seventhly,</hi> Nothing but faire Thruſts being to be allowed and reckoned, all commanding and incloſing whatſoever ſhould be diſcharged for if that were allowed, the moſt part would aim generally more at it, then at the giving of a Thruſt, which would take away the whole grace, neatneſs, and pleaſure of the play, but the uſe of the left hand is not to be diſ<g ref="char:EOLhyphen"/>charged, becauſe it may ſo fall out that ſome
+<pb n="84" facs="tcp:34923:45"/>Ignorant Ramblers may liſt themſelves to play for the Prize, out of no other deſigne but to ſee if they can baffle any of the Artiſts, therefore the parrying with the left hand is upon that very ac<g ref="char:EOLhyphen"/>count to be allowed; But in caſe of a Contre<g ref="char:EOLhyphen"/>temps or exchanged Thruſt (as it is in the eleventh Law for Schools) I would have the Thruſt alwiſe deſided in the Perſons Favours who was the firſt launcher out of it.</p>
+                  </sp>
+               </div>
+               <div n="8" type="rule">
+                  <head>RULE 8</head>
+                  <sp>
+                     <p>
+                        <hi>Eightly,</hi> Both to prevent Debates, &amp; alſo that the Thruſts which are given may the better ap<g ref="char:EOLhyphen"/>pear, there ſhould be a little peice of flat ſpunge fixed to the button of each Flurret, which ſhould be diped in a little water mixt with <hi>Ver<g ref="char:EOLhyphen"/>melion,</hi> and then it will be impoſſible for the leaſt touch to be given, but what will immedi<g ref="char:EOLhyphen"/>ately appear to the Judges, who ſhould then interrupt that bout, and declare that ſuch a Perſon playing againſt ſuch another hath re<g ref="char:EOLhyphen"/>ceived one Thruſt from him, which the Clerk is immediately to mark down, and then they are to engage again for the ſecond Thruſt, and when that is given, alſo to deſiſt until it be mar<g ref="char:EOLhyphen"/>ked; and then they are to play for the third &amp; laſt againſt other for that Prize, and the lame order muſt be obſerved by all the reſt.</p>
+                  </sp>
+               </div>
+               <div n="9" type="rule">
+                  <head>RULE. 9.</head>
+                  <sp>
+                     <p>
+                        <hi>Laſtly,</hi> Each Perſon being to play againſt e<g ref="char:EOLhyphen"/>very One, before the Victory can be decided in any ones Favours, it will take as many days
+<pb n="85" facs="tcp:34923:45"/>ſave one, as there are Perſons to play for the Prize, becauſe it will take ſo much time (each being according to the fifth Rule to make but one Aſſault in a day) before it go throw them all, and whoever after the laſt days Aſſaulting, ſhall be found by the account that the Clerk and Judges have kept, to have beat manyeſt, (for the Judges are to keep an exact account of who each day beateth other as well as the Clerk; to be as it were a proof of his exactneſs and impartiality) ſhall be declared to have gained the Prize, to whom the Preſident ſhall deliver it out of his own hand, paſſing what Compliment upon him he ſhall think fit, af<g ref="char:EOLhyphen"/>ter which all may be diſmiſſed.</p>
+                     <p>Thus you ſee what exact methode I would have taken to prevent confuſion, when there is a Prize to be played for, and I am confident if it were punctually obſerved, there would be as few Debates, and as little trouble at ſuch a Solemnity, as there is now in moſt Schools upon the ordinary publick Aſſaulting days.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>Really Sir, By the Rules you have laid down, it appears to me that there is not the leaſt difficultie in going about it, but you talk of erecting a Societie of Sword-Men, and your Diſcourſe would alſo intimate as much, as that there were one alreadie erected in this Kingdom.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>There is ſo Sir, and I thought there had been but few Gentlemen ſuch as you who
+<pb n="86" facs="tcp:34923:46"/>follow the Sword, but what had known of it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>Indeed Sir. I muſt confeſs my ignorance as to this, for I never ſo much as heard of it before, and u<g ref="char:EOLhyphen"/>pon this account I think it the more ſtrange, becauſe I am daily converſing with thoſe who are the greateſt encouragers of this Art within the Kingdom; Howe<g ref="char:EOLhyphen"/>ver ſeeing it hath been done without my knowledge, pray do me the favour to ſhow what methode they took to Erect it? For I am extreamly taken with the fancy.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Sir you now ask that of me, which had I not a particular permiſſion from the Society, allowing me to devulge it, I would be neceſſi<g ref="char:EOLhyphen"/>tate contrary to my inclination to give you a Denial, but ſeeing they at my deſire condeſ<g ref="char:EOLhyphen"/>cended to the publiſhing of it when I ſhould think fit; I ſhall give you a full account of the whole matter, which I think I can do the more exactly, ſeeing I was perſonally pre<g ref="char:EOLhyphen"/>ſent at the ſubſcription of the Contract.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sch.</speaker>
+                     <p>
+                        <hi>But what was the methode pray Sir that they took, for I am a little impatient I confeſs to know it?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Sir, Near Twenty of us had a meeting, (to the beſt of my remembrance it was upon the twenty ſixth of <hi>February</hi> laſt) where we all ſubſcrived our Original Contract: The exact Copie whereof followeth,</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="conclusion">
+               <pb n="87" facs="tcp:34923:46"/>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="covenant">
+                           <head>THE ORIGINAL CONTRACT OF THE Society of <hi>Sword Men</hi> IN SCOTLAND.</head>
+                           <p>THE Preſervation of Life or Self-Defence, be<g ref="char:EOLhyphen"/>ing that to which all Creatures by a Natu<g ref="char:EOLhyphen"/>ral inſtinct are inclined; Nature hath thought fit to beſtow upon each kind a parti<g ref="char:EOLhyphen"/>cular Defence, that ſo they might preſerve themſelves from the inſults of their Enemies: And as ſhe gave to the inferiour Creatures different methods naturallie to defend themſelves, ſome with their Teeth, Beaks, Trunks, and Claws, as may be ſeen in Eagles, Lyons, Wolves, Bears, and Elephants; Others with their Horns and Feet, as the Bull and Horſe; And others with their natural covering, or Coat of Armour, as the Crocadale, Portpick, Hu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tchen, and Tortoiſe. So Man coming into the World naked, and in a manner ſtript off all thoſe Defences, ſhe hath endued him with Rea<g ref="char:EOLhyphen"/>ſon, that he might by a Judicial Refl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ction and Con<g ref="char:EOLhyphen"/>trivance, invent to himſelf ſuch a varietie of Artificial ones, as might both ſupplie the want of theſe, and be ſerviceable to him in everie encounter of Danger.</p>
+                           <p>
+                              <pb n="88" facs="tcp:34923:47"/>
+Now as other creatures have but one life to preſerve and defend, ſo Man may be ſaid to have two, one of which is his Honour, for he who loſeth that, although he naturallie liveth, yet in reſpect of the bad character he is under; and ſmall regard Men of Honour have to him, he is Virtually dead, ſo that it ſhould be his chief care and buſineſs to defend the one, and if poſ<g ref="char:EOLhyphen"/>ſible preſerve the other untainted; But amongſt all the Defences hitherto invented by Man, there is none ſo generally uſeful, and which ſhows ſo much of Art and Dexterity; or diſcovers ſo much the ſubtility of Adroiſs and Invention as the Art of the Sword, (now a dayes termed Fencing,) and therefore it muſt cer<g ref="char:EOLhyphen"/>tainly be without debate the fitteſt to protect both.</p>
+                           <p>WE therefore <g ref="char:V">Ʋ</g>nderſubcrivers, being ſenſible of the great Advantage this Art hath over all others, which can any ways pretend to a ſhaire in the Defence of a Mans perſon; As alſo of the great benefit all People, but particularly Gentlemen, may reap by a right uſe of it, And conſidering that the knowledge and practice of it, is by many who do not underſtand its worth and Excellency, undervalued and judged but an uſeleſs and unprofitable piece of Accompliſhment; Do for the greater encouragement of the Art; And to excite in all People a Deſire and Emulation to underſtand and practice ſo Noble and <g ref="char:V">Ʋ</g>ſeful an Exerciſe, Erect our ſelves into a Society, which we Reſolve ſhall hereafter be called, <hi>The SOCIETY OF SWORD<g ref="char:EOLhyphen"/>MEN.</hi> And by this our Contract, we Bind and
+<pb n="89" facs="tcp:34923:47"/>Obliege our ſelves, to have a Yearly General Meeting upon the  <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap>  of each <hi>January,</hi> at two a cloak in the Afternoon, in Our firſt General Meeting beginning upon  <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap>  the  <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap>  day of <hi>January 1693.</hi> And ſo yearly thereaf<g ref="char:EOLhyphen"/>ter upon the  <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap>  of the ſaid moneth, any number which ſhall conveen being a Quorum. And do alſo obliege our ſelves to carry at thoſe General Meet, ings upon our left breaſts, and above our upper coats the Badge following, which is by us eſtabliſhed to be as a Diſtinction for the Society; And ſhall be hereaf<g ref="char:EOLhyphen"/>ter called its Badge: Viz.</p>
+                           <p>A piece of Plate ſomewhat larger than a Grown, &amp; in the form of a double Star, having a Circle within it, and engraven upon each ſide of the Circle a Cloud, out of which Cloud there muſt come from the Dexter an Arm holding a Sword ſloping upwards; And from the Siniſter another holding a Fluret likewiſe ſloping upwards, which croſſing the Sword about the midle ſhall Form a kind of <hi>St. Andrews Croſs;</hi> And behind the Fluret and Sword there moſt be alſo engraven the Figure of a Man in a faſhionable Garb, pointing with his right Hand to the point of the Fluret; And with his Left to the point of the Sword, Beneath which points ſhall be engraven theſe Inſcriptions; <hi>Viz.</hi> 
+                              <g ref="char:V">Ʋ</g>nder the point of the Fluret, <hi>Hac Recreo;</hi> And under the point of the Sword, <hi>Hoc propugno;</hi> And above the head of the Figure in a ſcr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l, <hi>Sic in utrumque paratus;</hi> And beneath his feet in larger Characters, <hi>Gladiatorum SCOTICORUM Societatis Symbolum;</hi> And in the Circle about
+<pb n="90" facs="tcp:34923:48"/>the Badge the Perſons name to whom the Badge belong<g ref="char:EOLhyphen"/>eth, with the day of the moneth, and year of GOD, when he was admitted and received into the Society; Alſo to give our Contract more force, and that all things may be done with the more Decency and Order, we all of us Bind and Obliege our ſelves to obſerve and ſtand to what Laws and Acts this our Society ſhall think fit to make from time to time, under the penalties which ſhall by the plurality of Votes be reſolved upon, to be impoſed upon thoſe who ſhall contra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>een.</p>
+                           <p>And finally, we declare that we have no other intention or deſign by Erecting this Society and appointing theſe our publick Meetings and Aſſemblies, but the Ad<g ref="char:EOLhyphen"/>vancement and Encouragement of this Art, And that thereby we may have a fairer &amp; better Opportunity to take into our conſideration what methods may be fallen upon, not only to excite all People to its practice, but alſo to improve our ſelves in it, which by our ſubſcrip<g ref="char:EOLhyphen"/>tions we declare, we look upon to be an Art ſo neceſſa<g ref="char:EOLhyphen"/>rie and uſeful, that it can never be either too much or too exactly practiſed and underſtood by any; And therefore with one conſent we ſubſcribe,</p>
+                           <epigraph>
+                              <q>In ſempiter<g ref="char:EOLhyphen"/>num Floreat Gladiatura,</q>
+                           </epigraph>
+                           <closer>
+                              <dateline>At <hi>Edinburgh</hi> 
+                                 <date>the twenty ſixth day of <hi>February, 1692.</hi>
+                                 </date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <hi>This we all ſubſcribed, after which we choſe our Clerk, next our Preſident, then we choſe our Treaſurer, in whoſe hands we con<g ref="char:EOLhyphen"/>ſigned
+<pb n="91" facs="tcp:34923:48"/>our money as a pledge for obſerving the the general Contract, and then having conſi<g ref="char:EOLhyphen"/>dered ſome other particulars relating to the So<g ref="char:EOLhyphen"/>ciety, we appointed a Committee who were impowered to receive ſuch into it, as ſhould make application to them, and whom they ſhould think fit to admit, which Committe was to continue until the next years Gene<g ref="char:EOLhyphen"/>ral Meeting, after which the Committee appointed their next ordinary Meeting, and then we adjourned.</hi>
+               </p>
+               <p>
+                  <hi>Thus Sir have</hi> I <hi>given you a ſhort but exact Account of our firſt Conſtitution, and I am hopeful whoever hears of it, and conſiders the Reaſons which induced us to it, will think the motives ſo ſtrong, and our Deſign ſo generous and Honourable, that they will be impatient to be admitted a Member of it.</hi>
+               </p>
+               <sp>
+                  <speaker>Sch.</speaker>
+                  <p>Indeed I ſhould think ſo, for the Fancy is both New, it being the firſt of the kind I believe that ever was Erected; and alſo being ſo Gentlemany de<g ref="char:EOLhyphen"/>ſerveth all the Encouragement imaginable, and for my own part Sir <hi>I</hi> aſure you, I will take it as a ſin<g ref="char:EOLhyphen"/>gular favour, if you will conferr that Honour upon me, which <hi>I</hi> doubt not but you can very eaſily do, conſider<g ref="char:EOLhyphen"/>ing your preſent ſtation.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>
+                     <hi>That Sir as I told you, doth not at all ly in my way, but propperly belongeth to the Committee appointed for that purpoſe; Howe<g ref="char:EOLhyphen"/>ver if you deſire, I ſhall do you all the ſervice
+<pb n="92" facs="tcp:34923:49"/>in it I can, and propoſe it to them, who no doubt conſidering the advance you have made in this Art, will make no ſcrupple to admit you.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sch.</speaker>
+                  <p>Pray do ſo then, and I ſhall alſo make Appli<g ref="char:EOLhyphen"/>cation to them my ſelf, which will perhaps make them the ſooner conſent to it; for I long extreamly to be one of your Number.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>
+                     <hi>I am glad Sir to ſee you ſo forwardly inclined to encourage this Art, and aſſure your ſelf, I ſhal never be wanting to give you all the Inſtruction and Aſſiſtance I can in any thing re<g ref="char:EOLhyphen"/>lating to it; But I muſt now of neceſſity take leave of you, leaſt I diſappoint thoſe Gentle<g ref="char:EOLhyphen"/>men I triſted with.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sch.</speaker>
+                  <p>Sir I am ſorie I have detained you ſo long, but the great deſire I had to be informed in what I was igno<g ref="char:EOLhyphen"/>rant of, (which <hi>I</hi> muſt confeſs you have moſt diſtinctly done) hath made me a great dale more rude then o<g ref="char:EOLhyphen"/>therwiſe <hi>I</hi> would, but <hi>I</hi> expect that amongſt my other failours which are very well known to you, you will alſo pardon this; And ſo <hi>I</hi> bid you heartilie good night, wiſhing you good ſucceſs, and an advantageous agree<g ref="char:EOLhyphen"/>ment with thoſe to whom you are going.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>
+                     <hi>I ſhall take care of that Sir I'le warrant you, for it is money now a days that doth all, and he who wants that may go pick ſtraws at home, for he will be but very little thought of
+<pb n="93" facs="tcp:34923:49"/>abroad; However I thank you for your good Wiſhes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sch.</speaker>
+                  <p>Well Sir, I am glad conſidering the great trouble I have given you all day, to leave you now in ſo good a ſtrain, but I'le detain you no longer from your Company. So,</p>
+               </sp>
+            </div>
+            <closer>
+               <salute>FAREWELL.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT</head>
+            <p>HAving finiſhed the preceeding Diſcourſe, I think it will not be amiſs to Anſwer an Objection, which perhaps ſome People (par<g ref="char:EOLhyphen"/>ticularly after conſidering the Rules I order to be obſerved in the third Circumſtance againſt Ignorants) may make, in judging that there is a great imperfection in the Art, becauſe I order the Left-hand to be frequently made uſe of againſt ſuch Perſons; For ſay they, to what uſe is all your Art with the Sword, when we ſee that according to your own Rules, when put to it, your Defence dependeth moſt, if not all, upon the Parying with the Left-hand, ſo that take away that, and reſtrict your ſelf wholly to the Defence with your Sword, and then we ſhall plainly ſee, that a rude foreward Ignorant will be equal with you, do your beſt.</p>
+            <pb n="94" facs="tcp:34923:50"/>
+            <p>To this I Anſwer, that ſeing it is evident a Sword cannot perform two different Acti<g ref="char:EOLhyphen"/>ons at one and the ſame time, that is, cannot both Defend and Offend at once, eſpecially the Stragling and Irregular Thruſts of a Rambler which are given at a diſtance from the Sword, and out of the Line, and that Ignorants know<g ref="char:EOLhyphen"/>ing very well this, do therefore commonly ne<g ref="char:EOLhyphen"/>ver forebear or deſiſt Puſhing and Thruſting until their Strength and Vigour fail them, con<g ref="char:EOLhyphen"/>cluding certainly that ſo long as they Thruſt ſo quickly, we muſt either Parry, or receive an exchanged Thruſt; And alſo that ſuch Ig<g ref="char:EOLhyphen"/>norants and Ramblers do alwiſe deſigne (ſeing they know they can do no better) to hazard the receiving one Wound for the giving of an<g ref="char:EOLhyphen"/>other, I ſay therefore upon that account, an Artiſt is in ſuch a caſe neceſſitate either to Parry with the Left-hand, or otherwiſe to give the Ig<g ref="char:EOLhyphen"/>norant the whole Purſute, ſo it is only that he may become the Purſuer that he defends with his Left-hand; <hi>(which nevertheleſs, let People think and talk of it as they pleaſe, is more difficult and requires more Art and dexteritie to perform neatlie, and without being wounded in it, then moſt do ima<g ref="char:EOLhyphen"/>gine)</hi> I ſay then it is only that he may become the Purſuer that he makes uſe of it; and not at all becauſe he is not by his Art capable, (if he had reſtricted himſelf only to the Defenſive
+<pb n="95" facs="tcp:34923:50"/>part,) to defend the Rude and Irregular thruſts of the Ignorant.</p>
+            <p>Let no man then condemn Art, upon this pre<g ref="char:EOLhyphen"/>tended unſuff<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iency of not furniſhing a perfit defence with the Sword, ſeing there can be no<g ref="char:EOLhyphen"/>thing under the cope of Heaven more falſe, for as I ſaid, the chief Reaſon which maketh Ar<g ref="char:EOLhyphen"/>tiſts uſe the left Hand againſt Ignorants and Ramblers, is not ſo much to be a defence to them (for if they be Adroit their Sword alone is aboundantly ſufficient for that) but that by uſing it they may be in a better capacity to of<g ref="char:EOLhyphen"/>fend the Ignorant, and by becoming the Pur<g ref="char:EOLhyphen"/>ſuer, put a ſtop to the ventorious and fore<g ref="char:EOLhyphen"/>ward Purſute of the Rambler, who (unleſs the Artiſt by uſing that Method make him ſenſible that his continual Thruſting cannot ſave him from a wound for nothing) would certainly advance ſo cloſs, and redouble ſo quickly and irregularly, that he might be fair to put the Artiſt, eſpecially if in a narrow Bounds, very hard to it.</p>
+            <p>Now this point I thought fit to clear, both for the Vindication of Art, and alſo to diſ<g ref="char:EOLhyphen"/>cover to ſuch Perſons who may make the pre<g ref="char:EOLhyphen"/>ceeding Objection, the true Reaſon why the uſe of the left Hand is ſo much recommend in all Engadgements, but particularly againſt Ignorants, or great Ramblers; Therefore what<g ref="char:EOLhyphen"/>ever
+<pb n="96" facs="tcp:34923:51"/>may have been heretofore their Opinion in this matter, I expect that after the reading of theſe few lines, they will be convinced of the truth of what I affirm, which if they are, I have my deſign in Writing this Poſtſcript, if not, the worſt is theirs, ſeing the diſadvantage will certainly at laſt redound to their own Prejudice, in obſtinatly mantaining a point ſo vaſtly oppoſite and contradictory to the true and ſolide dictats of both Reaſon and Art. And ſo I conclude, wiſhing them from all my Heart the true defence of both Hand and Sword, without which no man can perform in this Art, any thing that is either great or extraordinary.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34923:51"/>
+         </div>
+      </back>
+   </text>
+</TEI>
